@@ -25,27 +25,3 @@ Andrew Wickert:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: https://scholar.google.com/citations?user=-cCwyPsAAAAJ&hl=en
-
-Phillip Larson:
-  name             : "Phillip Larson"
-  avatar           : "/assets/images/headshots/larson_square.jpg"
-  bio              : "Associate Professor<br/>Director of Earth Science Programs<br/>Co-Director EARTH Systems Lab<br/>Minnesota State University, Mankato<br/><br/>Graduate Faculty, University of Minnesota"
-  location         : Mankato, Minnesota, USA
-  email            : phillip.larson@mnsu.edu
-  links:
-    - label: "Profile: MSU Mankato"
-      icon: "fas fa-fw fa-link"
-      url: "https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mavdisk.mnsu.edu/dj1515bb/geomorph/index.html"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: https://scholar.google.com/citations?user=aqo-a90AAAAJ&hl=en&oi=sra
-
-Andrea Prichard:
-  name             : "Andrea Prichard"
-  avatar           : "/assets/images/headshots/prichard.jpeg"
-  bio              : "Fulbright Scholar, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá"
-  location         : Cochabamba, Bolivia
-  email            : andrea.prichard@gmail.com
