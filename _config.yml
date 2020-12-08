@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Northern Widget LLC"
+  name             : #"Shanti Penprase"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Open-source technologies for environmental monitoring."
+  bio              : #"PhD Candidate"
   location         : #"Minnesota, USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:info@northernwidget.com"
+      url: #"mailto:penpr001@umn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
