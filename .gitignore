@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+
+# Linux temporary files
+*.swo
+*.swp
+
+# Jekyll cache files
+.jekyll-cache/*

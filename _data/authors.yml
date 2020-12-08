@@ -1,0 +1,51 @@
+# /_data/authors.yml
+
+Andrew Wickert:
+  name             : "Andrew Wickert"
+  avatar           : "/assets/images/headshots/andy_square_320px.png"
+  bio              : "McKnight Land-Grant Assistant Professor<br/>Department of Earth & Environmental Sciences<br/>Faculty, Saint Anthony Falls Laboratory<br/>Associate, Institute on the Environment<br/>"
+  location         : Minneapolis, Minnesota, USA
+  email            : awickert@umn.edu
+  links:
+    - label: "University website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.esci.umn.edu/people/Andrew-Wickert"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/andywickert"
+      # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/awickert"
+      # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: https://scholar.google.com/citations?user=-cCwyPsAAAAJ&hl=en
+
+Phillip Larson:
+  name             : "Phillip Larson"
+  avatar           : "/assets/images/headshots/larson_square.jpg"
+  bio              : "Associate Professor<br/>Director of Earth Science Programs<br/>Co-Director EARTH Systems Lab<br/>Minnesota State University, Mankato<br/><br/>Graduate Faculty, University of Minnesota"
+  location         : Mankato, Minnesota, USA
+  email            : phillip.larson@mnsu.edu
+  links:
+    - label: "Profile: MSU Mankato"
+      icon: "fas fa-fw fa-link"
+      url: "https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://mavdisk.mnsu.edu/dj1515bb/geomorph/index.html"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: https://scholar.google.com/citations?user=aqo-a90AAAAJ&hl=en&oi=sra
+
+Andrea Prichard:
+  name             : "Andrea Prichard"
+  avatar           : "/assets/images/headshots/prichard.jpeg"
+  bio              : "Fulbright Scholar, Batipa Field Institute, Universidad Tecnológica Oteima, Panamá"
+  location         : Cochabamba, Bolivia
+  email            : andrea.prichard@gmail.com

@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "People"
+    url: /people/
+  - title: "Research"
+    url: /research/
+  - title: "Lab+Prospective"
+    url: /lab+prospective/
+  - title: "Minnesota"
+    url: /minnesota/
