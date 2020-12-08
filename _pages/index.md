@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "University of Minnesota Earth-Surface Processes"
+title: "Shanti Homepage"
 permalink: /
 hidden: true
 header:
@@ -35,4 +35,3 @@ We approach geomorphology and, broadly, the science of Earth's surface as the es
 ## Everybody matters
 
 Some of us are strong. Some of us are smart. Some of us make others laugh. Some have known Earth science since childhood, while others have recently discovered it. Some of us come up with problems, and some imagine solutions. Whether you haul a pack, write computer code, date samples, analyze remotely-sensed data, couple differential equations, inspire students, and/or build our community, you are welcome among us.
-
