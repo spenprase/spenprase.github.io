@@ -121,15 +121,15 @@ author:
 # Site Footer
 footer:
   links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/NorthernWidget"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/spenprase"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
     #  url: https://www.facebook.com/NorthernWidget
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/umn-earth-surface"
+      url: "https://github.com/spenprase"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:
