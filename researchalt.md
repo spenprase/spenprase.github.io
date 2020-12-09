@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Research alternate"
+title: "Research"
 permalink: /researchalt
 hidden: true
 header:
@@ -10,12 +10,12 @@ header:
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: "Perito Moreno!"
-excerpt: Research interests.<br />
+  caption: "Upsala Glacier"
+excerpt:
 #         
 ---
 
 ## Words!
-more words!kjhkjhkjh
+more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that. more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.more words!kjhkjhkjh. For my research I do many things including copying and pasting sentences. Particularly long sentences becasue I don't know how long the page will let me make them and it's important that I get a sense of that.
 
 research **alt**
