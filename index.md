@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Welcome to Shanti's Personal Website"
+title: "Shanti B Penprase"
 permalink: /
 hidden: true
 header:
@@ -11,9 +11,11 @@ header:
   #  - label: "Get started"
   #    url: "/awtest/"
   caption: "Perito Moreno!"
-excerpt: Research interests, teaching, projects <br />
+excerpt: PhD Candidate, University of Minnesota <br />
 #         
 ---
+# Welcome
+This is a website I've put together to highlight my research and teaching interests. I'm going to use this page as a place to show all of my various work projects!
 
 ## Words!
 more words!kjhkjhkjh
