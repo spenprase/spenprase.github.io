@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Shanti Homepage"
+title: "Shanti B Penprase"
 permalink: /
 hidden: true
 header:
@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/awtest/"
   caption: "Perito Moreno!"
-excerpt: Research interests.<br />
+excerpt: Research interests, teaching, projects <br />
 #         
 ---
 
