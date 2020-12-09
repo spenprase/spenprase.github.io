@@ -3,7 +3,7 @@ layout: splash
 title: "Shanti Homepage"
 permalink: /
 hidden: true
-header: "Shantip"
+header: 
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/PeritoMorenoSideRiver.JPG
