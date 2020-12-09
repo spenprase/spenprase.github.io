@@ -1,8 +1,7 @@
 ---
-title: "Research"
 layout: splash
+title: "Research"
 permalink: /research/
-author_profile: false
 classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
