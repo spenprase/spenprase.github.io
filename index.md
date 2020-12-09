@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Shanti B Penprase"
+title: "Welcome to Shanti's Personal Website"
 permalink: /
 hidden: true
 header:
