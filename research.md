@@ -16,6 +16,6 @@ excerpt:
 ---
 
 ## Words!
-I focus on the interactions between glaciers and rivers, particularly in how changes in water and sediment supply from glacial cycling impact channel morphology and terrace formation. My work is primarily focused on tributary river response, but I also work on headwater glaciated watersheds. My main field area is the Whitewater River in Southeastern Minnesota. I also am part of a team of researchers working in Southern Patagonia.
+I focus on the interactions between glaciers and rivers, particularly in how changes in water and sediment supply from glacial cycling impact channel morphology and terrace formation. My work is primarily focused on tributary river response, but I also work on headwater glaciated watersheds. My main field area is the Whitewater River in Southeastern Minnesota. I also am part of a team of working in Southern Patagonia.
 
 research **alt**
