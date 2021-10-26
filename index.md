@@ -16,6 +16,3 @@ excerpt: PhD Candidate, University of Minnesota <br />
 ---
 # Welcome
 This is a website I've put together to highlight my research and teaching interests. I'm going to use this page as a place to show all of my various work projects! Thanks for visiting!
-
-## Words!
-more words about my research!
