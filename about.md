@@ -29,11 +29,13 @@ In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. Af
 
 
 
-
 ## Affiliations
 
 * [Department of Earth and Environmental Sciences](https://www.esci.umn.edu/)
 * Saint Anthony Falls Laboratory
 * Earth Surface Processes Group, University of Minnesota
+
+## Contact:
+penpr001@umn.edu
 
 ![Image!](/assets/images/personal-pages/Shanti_Upsala.jpg)
