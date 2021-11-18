@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
-  overlay_filter: "0.5"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/banners/IMG_0342.JPG
   #actions:
   #  - label: "Get started"
