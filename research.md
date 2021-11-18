@@ -15,7 +15,17 @@ excerpt:
 #         
 ---
 
-## Words!
-I focus on the interactions between glaciers and rivers, particularly in how changes in water and sediment supply from glacial cycling impact channel morphology and terrace formation. My work is primarily focused on tributary river response, but I also work on headwater glaciated watersheds. My main field area is the Whitewater River in Southeastern Minnesota. I also am part of a team of working in Southern Patagonia.
+## Research Interests
 
-research **alt**
+My research is focused on understanding how changes in glaciation impact the morphology and dynamics of river networks. My work is primarily focused on the Whitewater River, a tributary to the Mississippi River in southeastern Minnesota, USA.
+
+My research is centered around three main questions:
+1. How do the changes in water and sediment supply and changes in base level caused by ice sheets impact downstream and tributary river systems?
+2. How do changes in erosion and deposition evolve across different timescales?
+As the watershed transitioned from ancient bedrock erosion to terrace aggradation and abandonment, how did erosion rates change?
+3. How do mixed alluvial-bedrock systems respond to changes in base level in real, natural systems? Can we do ground-truthing of models for this evolution?
+
+I address these key research questions through a number of methods, including optically stimulated luminescence and meteoric cosmogenic nuclide dating, DEM analysis of watershed-scale morphology and channel networks, detailed sediment descriptions, and passive/active source seismic.
+
+## Research Areas
+Fluvial geomorphology, fluvial and glacial systems, optically stimulated luminescence, cosmogenic nuclide dating, geochronology, remote sensing
