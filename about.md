@@ -23,11 +23,11 @@ In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. Af
 
 ## Education
 
-*2018-Present (expected 2024)*:
-  **Ph.D. Candidate**, Department of Earth & Environmental Sciences, the University of Minnesota Twin Cities, *Advisor: Andrew Wickert*
+2018-Present (expected 2024):
+* **Ph.D. Candidate**, Department of Earth & Environmental Sciences, the University of Minnesota Twin Cities, *Advisor: Andrew Wickert*
 
-*2012-2016*:
-  **Bachelor of Arts, Geology**, Carleton College
+2012-2016:
+* **Bachelor of Arts, Geology**, Carleton College
 
 
 
@@ -35,6 +35,7 @@ In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. Af
 ## Affiliations
 
 * [Department of Earth and Environmental Sciences](https://www.esci.umn.edu/)
-
+* Saint Anthony Falls Laboratory
+* Earth Surface Processes Group, University of Minnesota
 
 ![Image!](/assets/images/personal-pages/Shanti_Upsala.jpg)
