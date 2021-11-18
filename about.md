@@ -14,12 +14,17 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/UpsalaMountainsClouds.JPG
 ---
+A native of southern California, I moved to Minnesota in 2012 to attend Carleton College and experience snow for the first time. Since then I've grown to love the unique charm and fascinating geology of the upper Midwest (though I do miss the mountains and beach from time to time).
 
-##Education
+In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. After graduation I completed an Americorps year of service through the Minnesota Pollution Control Agency, where I helped run the Minnesota Water Stewards program in the Twin Cities Metro area, a community education focused on clean water and stormwater runoff mitigation. Following this I worked as a Programs Assistant at Mississippi Watershed Management Organization from 2017-2018, completing water quality monitoring along the Mississippi River and continuing community education and engagement work in the Twin Cities metro area. Since 2018, I've been working towards my Ph.D. at the University of Minnesota.
 
-2018-Present (expected 2024): **Ph.D. Candidate**, Department of Earth & Environmental Sciences, the University of Minnesota Twin Cities
+## Education
 
-2012-2016: **Bachelor of Arts, Geology**, Carleton College
+*2018-Present (expected 2024)*:
+  **Ph.D. Candidate**, Department of Earth & Environmental Sciences, the University of Minnesota Twin Cities, *Advisor: Andrew Wickert*
+
+*2012-2016*:
+  **Bachelor of Arts, Geology**, Carleton College
 
 
 
