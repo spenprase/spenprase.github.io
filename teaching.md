@@ -14,7 +14,7 @@ header:
 excerpt:
 #         
 ---
-##*“The larger the island of knowledge, the longer the shoreline of wonder.”*-- Ralph Sockman
+## *“The larger the island of knowledge, the longer the shoreline of wonder.”*-- Ralph Sockman
 
  This quote, by Ralph Sockman, in my mind, best summarizes my approach to teaching. In the classroom, my primary goal is to help students "build their island of knowledge" through engaging, collaborative discussion and application of subject material. This, in turn, fosters wonder and independent engagement for each student.
 
