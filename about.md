@@ -12,9 +12,10 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/UpsalaMountainsClouds.JPG
+  overlay_image: /assets/images/banners/IMG_1728 2.JPG
+  caption: "Mississippi River in Autumn"
 ---
-<img align="right" src="/assets/images/banners/IMG_0995.JPG" alt="FieldworkPhoto" width="350px">
+<img align="right" src="/assets/images/banners/IMG_2277.JPG" alt="OSL Lab Aftermath" width="350px">
 A native of southern California, I moved to Minnesota in 2012 to attend Carleton College and experience snow for the first time. Since then I've grown to love the unique charm and fascinating geology of the upper Midwest (though I do miss the mountains and beach from time to time).
 
 In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. After graduation I completed an Americorps year of service through the Minnesota Pollution Control Agency, where I helped run the Minnesota Water Stewards program in the Twin Cities Metro area, a community education focused on clean water and stormwater runoff mitigation. Following this I worked as a Programs Assistant at Mississippi Watershed Management Organization from 2017-2018, completing water quality monitoring along the Mississippi River and continuing community education and engagement work in the Twin Cities metro area. Since 2018, I've been working towards my Ph.D. at the University of Minnesota.
@@ -23,19 +24,18 @@ In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. Af
 
 2018-Present (expected 2024):
 * **Ph.D. Candidate**, Department of Earth & Environmental Sciences, the University of Minnesota Twin Cities, *Advisor: Andrew Wickert*
+Tentative Thesis Title: *“Glacial impacts on fluvial systems: erosion, long profile evolution, and terrace chronology"*
 
 2012-2016:
 * **Bachelor of Arts, Geology**, Carleton College
-
+Senior Thesis: *Acid Mine Drainage Simulated Leaching Behavior of Goethite and Cobalt Substituted Goethite*
 
 
 ## Affiliations
 
+* [Saint Anthonoy Falls Laboratory](https://cse.umn.edu/safl)
 * [Department of Earth and Environmental Sciences](https://www.esci.umn.edu/)
-* Saint Anthony Falls Laboratory
-* Earth Surface Processes Group, University of Minnesota
+* [Earth Surface Processes Group, University of Minnesota](https://umn-earth-surface.github.io/)
 
 ## Contact:
 penpr001@umn.edu
-
-![Image!](/assets/images/personal-pages/Shanti_Upsala.jpg)
