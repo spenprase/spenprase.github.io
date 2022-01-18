@@ -24,10 +24,12 @@ In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. Af
 
 2018-Present (expected 2024):
 * **Ph.D. Candidate**, Department of Earth & Environmental Sciences, the University of Minnesota Twin Cities, *Advisor: Andrew Wickert*
+
 Tentative Thesis Title: *“Glacial impacts on fluvial systems: erosion, long profile evolution, and terrace chronology"*
 
 2012-2016:
 * **Bachelor of Arts, Geology**, Carleton College
+
 Senior Thesis: *Acid Mine Drainage Simulated Leaching Behavior of Goethite and Cobalt Substituted Goethite*
 
 
