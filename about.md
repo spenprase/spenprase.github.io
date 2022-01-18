@@ -15,7 +15,7 @@ header:
   overlay_image: /assets/images/banners/IMG_1728 2.JPG
   caption: "Mississippi River in Autumn"
 ---
-<img align="right" src="/assets/images/banners/IMG_2277.JPG" alt="OSL Lab Aftermath" width="350px">
+<img align="right" src="/assets/images/banners/IMG_2247.JPG" alt="OSL Lab Aftermath" width="350px">
 A native of southern California, I moved to Minnesota in 2012 to attend Carleton College and experience snow for the first time. Since then I've grown to love the unique charm and fascinating geology of the upper Midwest (though I do miss the mountains and beach from time to time).
 
 In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. After graduation I completed an Americorps year of service through the Minnesota Pollution Control Agency, where I helped run the Minnesota Water Stewards program in the Twin Cities Metro area, a community education focused on clean water and stormwater runoff mitigation. Following this I worked as a Programs Assistant at Mississippi Watershed Management Organization from 2017-2018, completing water quality monitoring along the Mississippi River and continuing community education and engagement work in the Twin Cities metro area. Since 2018, I've been working towards my Ph.D. at the University of Minnesota.

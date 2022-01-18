@@ -6,15 +6,17 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/UpsalaMountainsClouds.JPG
+  overlay_image: /assets/images/banners/IMG_1921.JPG
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: "Upsala Glacier"
+  caption: "Whitewater River Valley"
 excerpt:
 #         
 ---
 ## *“The larger the island of knowledge, the longer the shoreline of wonder.”*-- Ralph Sockman
+
+<img align="right" src="/assets/images/banners/IMG_8356.JPG" alt="AGU22022" width="350px">
 
  This quote, by Ralph Sockman, in my mind, best summarizes my approach to teaching. In the classroom, my primary goal is to help students "build their island of knowledge" through engaging, collaborative discussion and application of subject material. This, in turn, fosters wonder and independent engagement for each student.
 
