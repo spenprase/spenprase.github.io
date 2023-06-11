@@ -28,6 +28,6 @@ As the watershed transitioned from ancient bedrock erosion to terrace aggradatio
 
 I address these key research questions through a number of approaches, including optically stimulated luminescence and meteoric cosmogenic nuclide dating, DEM analysis of watershed-scale morphology and channel networks, detailed sediment description, and passive/active source seismic methods.
 
-<img align="left" src="/assets/images/banners/IMG_0211.JPG" alt="Seismic Refraction">
+<img align="left" src="/assets/images/banners/IMG_0211.JPG" alt="Seismic Refraction" width="350px">
 ## Research Areas
 Fluvial geomorphology, optically stimulated luminescence, cosmogenic nuclide dating, geochronology, remote sensing, sedimentology, computational modeling, environmental geophysics
