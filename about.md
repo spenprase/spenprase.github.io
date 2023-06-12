@@ -38,13 +38,11 @@ Tentative Thesis Title: *“Glacial impacts on fluvial systems: erosion, long pr
 
 Senior Thesis: *Acid Mine Drainage Simulated Leaching Behavior of Goethite and Cobalt Substituted Goethite*
 
-<figure class="half">
+<<figure class="half">
     <a href="/assets/images/IMG_4236.JPG"><img src="/assets/images/IMG_4236.JPG"></a>
     <a href="/assets/images/IMG_5616_2.JPG"><img src="/assets/images/IMG_5616_2.JPG"></a>
     <figcaption></figcaption>
 </figure>
-
-
 
 ## Affiliations
 

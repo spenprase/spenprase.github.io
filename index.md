@@ -30,8 +30,8 @@ Hello! My name is Shanti and I'm a Ph.D. Candidate at the University of Minnesot
 In addition to research, I also love working with students and have been fortunate to work with several undergraduate classes as both a guest lecturer and a teaching assistant. I love working with students and finding what makes them passionate in order to help them get excited about the landscapes around them. To learn more about my teaching interests, visit my [Teaching Page](https://spenprase.github.io/teaching).
 
 <figure class="third">
-	<img src="/assets/images/banners/IMG_3994.JPG">
-	<img src="/assets/images/banners/IMG_0738.JPG">
-	<img src="/assets/images/banners/IMG_4249.PNG">
+	<img src="/assets/images/IMG_3994.JPG">
+	<img src="/assets/images/IMG_0738.JPG">
+	<img src="/assets/images/IMG_4249.PNG">
 	<figcaption></figcaption>
 </figure>
