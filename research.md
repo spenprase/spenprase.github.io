@@ -2,11 +2,6 @@
 layout: splash
 title: "Research"
 permalink: /research/
-
-# Includes author profile in sidebar
-author: Shanti Penprase
-author_profile: true
-
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
@@ -17,6 +12,11 @@ header:
   #    url: "/awtest/"
   caption: "Whitewater River"
 excerpt:
+
+# Includes author profile in sidebar
+author: Shanti Penprase
+author_profile: true
+
 #         
 ---
 <figure style="width: 400px; padding: 20px" class="align-right">
@@ -39,7 +39,7 @@ My work is primarily focused on the Whitewater River, a tributary to the Mississ
   <figcaption>Seismic Refraction</figcaption>
 </figure>
 
-In my research I am: 
+In my research I am:
 1. Comparing catchment averaged erosion and aggradation in post-glacial vs post-settlement time
 2. Modeling knickpoint formation and channel long profile chronology in mixed alluvial-bedrock rivers
 3.  Examining impacts of land use, lithology, and base level on catchment averaged erosion within a river system.

@@ -12,6 +12,11 @@ header:
   #    url: "/awtest/"
   caption: "Whitewater River Valley"
 excerpt:
+
+# Includes author profile in sidebar
+author: Shanti Penprase
+author_profile: true
+
 #         
 ---
 ## *“The larger the island of knowledge, the longer the shoreline of wonder.”*-- Ralph Sockman
