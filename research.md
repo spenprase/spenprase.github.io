@@ -34,7 +34,7 @@ In my research I am (1) comparing catchment averaged erosion and aggradation in 
 
 <figure style="width: 400px; padding: 20px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_0211.JPG" alt="">
-  <figcaption>Field science</figcaption>
+  <figcaption>Seismic Refraction</figcaption>
 </figure>
 
 I address research questions through a number of approaches, including optically stimulated luminescence and 10Be cosmogenic nuclide dating, DEM analysis of watershed-scale morphology and channel networks, detailed sediment description, and passive/active source seismic methods.

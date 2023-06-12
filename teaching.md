@@ -27,6 +27,6 @@ excerpt:
 
  I have completed the [Preparing Future Faculty](https://cei.umn.edu/programs/preparing-future-faculty-program) curriculum offered at the University of Minnesota and hold a certificate for Teaching in Higher Education earned through completing the foundational Teaching in Higher Education and Practicum course requirements for the program.
 
- My teaching experience includes **invited guest lectures and assignment generation** for **Geomorphology**, **Advanced Geomorphology**, and **Surface & Groundwater Hydrology** (2021,2022).
+ My teaching experience includes **invited guest lectures and assignment generation** for **Geomorphology**, **Advanced Geomorphology**, and **Surface & Groundwater Hydrology**.
 
  In addition, I have **Teaching Assistant** experience for courses ranging from  **Geomorphology**, **Field Hydrogeology**, **Earth Surface Processes**, and **Introduction to Earth & the Environment**.
