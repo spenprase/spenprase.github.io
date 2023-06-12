@@ -16,8 +16,6 @@ excerpt:
 ---
 <img style= "float: right;" alt="" src="/assets/images/banners/IMG_2277.JPG" alt="OSL Lab Aftermath" width="350px">
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_2277.JPG){: .align-left} {width="350px"}
-
 
 <figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_0211.JPG" alt="">
