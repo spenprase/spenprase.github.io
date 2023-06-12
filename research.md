@@ -2,6 +2,11 @@
 layout: splash
 title: "Research"
 permalink: /research/
+
+# Includes author profile in sidebar
+author: Shanti Penprase
+author_profile: true
+
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
@@ -14,17 +19,14 @@ header:
 excerpt:
 #         
 ---
-<img style= "float: right;" alt="" src="/assets/images/banners/IMG_2277.JPG" alt="OSL Lab Aftermath" width="350px">
-
-
-<figure style="width: 300px" class="align-left">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_0211.JPG" alt="">
-  <figcaption>Field science</figcaption>
+  <figcaption>OSL Lab Aftermath</figcaption>
 </figure>
 
 ## Research Interests
 
-My research is focused on understanding how changes in climate and glaciation impact the morphology and dynamics of river catchments starting around the Last Glacial Maximum (~20,000 years ago). I connect these landscapes of the icy past to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. My work is primarily focused on the Whitewater River, a tributary to the Mississippi River in southeastern Minnesota, USA. The Whitewater River was not glaciated at the Last Glacial Maximum, but glacial climate and changes in base level (the water level at the mouth of the river) due to glacial advance and retreat had far-reaching impacts on this watershed. The Whitewater River was further altered by the start of Euro-American farming in the 1850s, which resulted in considerable vegetation clearing and the introduction of plowing. These land use changes had devastating consequences on this landscape, resulting in massive floods and debris flows that buried towns and destroyed farmland.
+My research is focused on understanding how changes in climate, glaciation, and land use impact the morphology of river catchments.  from the Last Glacial Maximum (~20,000 years ago) to the present. I connect landscapes of the icy past to more modern changes caused by Euro-American farming and paraglacial (or post-glacial) landscape evolution. My work is primarily focused on the Whitewater River, a tributary to the Mississippi River in southeastern Minnesota, USA. The Whitewater River was not glaciated at the Last Glacial Maximum, but glacial climate and changes in base level (the water level at the mouth of the river) due to glacial advance and retreat had far-reaching impacts on this watershed. The Whitewater River was further altered by the start of Euro-American farming in the 1850s, which resulted in considerable vegetation clearing and the introduction of plowing. These land use changes had devastating consequences on this landscape, resulting in massive floods and debris flows that buried towns and destroyed farmland.
 
 My research is centered around three main questions:
 
@@ -43,6 +45,10 @@ I address these key research questions through a number of approaches, including
 
 I have been fortunate enough to work in both the field and lab on both optically stimulated luminescence and 10Be nuclide dating, courtesy of Utah State University and University of Massachusetts Amherst. I am passionate about connecting landscapes, processes, and scientific approaches in new and exciting ways. I'm eager to collaborate with new people and talk more about my research. Please do not hesitate to contact me.
 
-<img align="left" src="/assets/images/banners/IMG_0211.JPG" alt="Seismic Refraction" width="350px">
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_0211.JPG" alt="">
+  <figcaption>Field science</figcaption>
+</figure>
+
 ## Research Areas
 Fluvial geomorphology, optically stimulated luminescence, cosmogenic nuclide dating, geochronology, remote sensing, sedimentology, computational modeling, environmental geophysics
