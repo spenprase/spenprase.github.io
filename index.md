@@ -31,7 +31,7 @@ In addition to research, I also love working with students and have been fortuna
 
 <figure class="third">
 	<img src="/assets/images/IMG_3994.JPG">
-	<img src="/assets/images/IMG_0738.JPG">
+	<img src="/assets/images/IMG_0738.jpg">
 	<img src="/assets/images/IMG_4249.PNG">
 	<figcaption></figcaption>
 </figure>
