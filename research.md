@@ -36,7 +36,7 @@ My work is primarily focused on the Whitewater River, a tributary to the Mississ
 
 <figure style="width: 400px; padding: 20px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_5543_2.JPG" alt="">
-  <figcaption></figcaption>
+  <figcaption>Pre-settlement soil buried under post-settlement alluvium</figcaption>
 </figure>
 
 In my research I am:
@@ -44,7 +44,7 @@ In my research I am:
 2. Modeling knickpoint formation and channel long profile chronology in mixed alluvial-bedrock rivers
 3.  Examining impacts of land use, lithology, and base level on catchment averaged erosion within a river system.
 
-<figure class="half">
+<figure style="width: 900px; padding: 20px" figure class="half">
     <a href="/assets/images/IMG_4236.JPG"><img src="/assets/images/IMG_1618.JPEG"></a>
     <a href="/assets/images/IMG_5616_2.JPG"><img src="/assets/images/banners/IMG_0211.JPG"></a>
     <figcaption></figcaption>
