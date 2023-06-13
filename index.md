@@ -22,7 +22,7 @@ author_profile: true
 
 <figure style="width: 450px; padding: 20px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_0995.JPG" alt="">
-  <figcaption>Midwestern Fieldwork!</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 Hello! My name is Shanti and I'm a Ph.D. Candidate at the University of Minnesota Twin Cities. My work focuses broadly on how river systems respond to changes in climate, *base level* (the water level at a river's mouth), and sedimentation (either driven by glaciers or human agriculture). To understand this, I study *river channel long profile*, the slope from the river headwaters to the mouth, to see how river slope adjusts as the water level at the mouth changes and *fluvial terraces*, abandoned floodplains, once occupied by a river. My work uses a number of techniques including geochronology, GIS, working with sediment cores, and computational modeling. To learn more about my research interests, visit my [Research Page](https://spenprase.github.io/research).

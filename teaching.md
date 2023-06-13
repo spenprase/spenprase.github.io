@@ -10,7 +10,7 @@ header:
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: "Whitewater River Valley"
+  caption:
 excerpt:
 
 # Includes author profile in sidebar

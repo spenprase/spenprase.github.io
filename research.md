@@ -10,7 +10,7 @@ header:
   #actions:
   #  - label: "Get started"
   #    url: "/awtest/"
-  caption: "Whitewater River"
+  caption:
 excerpt:
 
 # Includes author profile in sidebar
@@ -35,19 +35,14 @@ I address my research questions through a number of approaches, including optica
 My work is primarily focused on the Whitewater River, a tributary to the Mississippi River in southeastern Minnesota, USA. The Whitewater River was not glaciated at the Last Glacial Maximum, but glacial climate and changes in base level (the water level at the mouth of the river) due to glacial advance and retreat had far-reaching impacts on this watershed. The Whitewater River was further altered by the start of Euro-American farming in the 1850s, which resulted in vegetation clearing and the introduction of plowing. These land use changes had devastating consequences on this landscape, resulting in massive floods and debris flows that buried towns and destroyed farmland.
 
 <figure style="width: 400px; padding: 20px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_5543_2.JPG" alt="">
-  <figcaption>Seismic Refraction</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_5543_2.JPG" alt="">
+  <figcaption></figcaption>
 </figure>
 
 In my research I am:
 1. Comparing catchment averaged erosion and aggradation in post-glacial vs post-settlement time
 2. Modeling knickpoint formation and channel long profile chronology in mixed alluvial-bedrock rivers
 3.  Examining impacts of land use, lithology, and base level on catchment averaged erosion within a river system.
-
-<figure style="width: 400px; padding: 20px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_0211.JPG" alt="">
-  <figcaption>Seismic Refraction</figcaption>
-</figure>
 
 <figure class="half">
     <a href="/assets/images/IMG_4236.JPG"><img src="/assets/images/IMG_1618.JPEG"></a>
