@@ -16,6 +16,7 @@ excerpt:
 # Includes author profile in sidebar
 author: Shanti Penprase
 author_profile: true
+classes: wide
 
 #         
 ---
