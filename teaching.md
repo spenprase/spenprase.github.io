@@ -31,7 +31,7 @@ author_profile: true
  As a teacher, I strive to position myself in the classroom as a resource for students, one where students see me as not only means to help them better understand and engage with course content, but also one that is able to support them and help them build learning skills that can be applied beyond my class. These skills include how best to learn material, how to communicate effectively, and how to be part of an active, working team.
 
  <figure style="width: 400px; padding: 20px" class="align-left">
-   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_1002.JPG" alt="">
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_1002.JPG" alt="">
    <figcaption>Summer field crew</figcaption>
  </figure>
 

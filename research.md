@@ -45,7 +45,7 @@ In my research I am:
 3.  Examining impacts of land use, lithology, and base level on catchment averaged erosion within a river system.
 
 <figure class="third">
-	<img src="/assets/images/IMG_5616_2.JPG"">
+	<img src="/assets/images/IMG_5616_2.JPG">
 	<img src="/assets/images/IMG_4236.JPG">
 	<img src="/assets/images/PXL_20220227_211207835.JPEG">
 	<figcaption></figcaption>
