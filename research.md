@@ -32,12 +32,12 @@ I address my research questions through a number of approaches, including optica
 
 ### Field Area
 
-<figure style="width: 400px; padding: 20px" class="align-right">
+My work is primarily focused on the Whitewater River, a tributary to the Mississippi River in southeastern Minnesota, USA. The Whitewater River was not glaciated at the Last Glacial Maximum, but glacial climate and changes in base level (the water level at the mouth of the river) due to glacial advance and retreat had far-reaching impacts on this watershed. The Whitewater River was further altered by the start of Euro-American farming in the 1850s, which resulted in vegetation clearing and the introduction of plowing. These land use changes had devastating consequences on this landscape, resulting in massive floods and debris flows that buried towns and destroyed farmland.
+
+<figure style="width: 400px; padding: 20px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_5543_2.JPG" alt="">
   <figcaption>Pre-settlement soil buried under post-settlement alluvium</figcaption>
 </figure>
-
-My work is primarily focused on the Whitewater River, a tributary to the Mississippi River in southeastern Minnesota, USA. The Whitewater River was not glaciated at the Last Glacial Maximum, but glacial climate and changes in base level (the water level at the mouth of the river) due to glacial advance and retreat had far-reaching impacts on this watershed. The Whitewater River was further altered by the start of Euro-American farming in the 1850s, which resulted in vegetation clearing and the introduction of plowing. These land use changes had devastating consequences on this landscape, resulting in massive floods and debris flows that buried towns and destroyed farmland.
 
 In my research I am:
 1. Comparing catchment averaged erosion and aggradation in post-glacial vs post-settlement time
@@ -49,8 +49,8 @@ I address research questions through a number of approaches, including optically
 I am passionate about connecting landscapes, processes, and scientific approaches in new and exciting ways. I'm eager to talk more about my research and to collaborate with new people. Please do not hesitate to contact me to talk science!
 
 <figure class="third">
+	<img src="/assets/images/IMG_1623.JPEG">
 	<img src="/assets/images/IMG_5616_2.JPG">
-	<img src="/assets/images/banners/IMG_1623.JPEG">
 	<img src="/assets/images/PXL_20220227_211207835.JPEG">
 	<figcaption></figcaption>
 </figure>
