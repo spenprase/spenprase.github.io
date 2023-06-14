@@ -48,11 +48,12 @@ I address research questions through a number of approaches, including optically
 
 I am passionate about connecting landscapes, processes, and scientific approaches in new and exciting ways. I'm eager to talk more about my research and to collaborate with new people. Please do not hesitate to contact me to talk science!
 
+## Research Areas
+Fluvial geomorphology, optically stimulated luminescence, cosmogenic nuclide dating, geochronology, remote sensing, sedimentology, computational modeling, environmental geophysics
+
 <figure class="third">
 	<img src="/assets/images/IMG_1623.JPEG">
 	<img src="/assets/images/IMG_5616_2.JPG">
 	<img src="/assets/images/PXL_20220227_211207835.JPEG">
 	<figcaption></figcaption>
 </figure>
-## Research Areas
-Fluvial geomorphology, optically stimulated luminescence, cosmogenic nuclide dating, geochronology, remote sensing, sedimentology, computational modeling, environmental geophysics

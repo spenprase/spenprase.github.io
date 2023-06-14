@@ -38,11 +38,6 @@ Tentative Thesis Title: *“Glacial impacts on fluvial systems: erosion, long pr
 
 Senior Thesis: *Acid Mine Drainage Simulated Leaching Behavior of Goethite and Cobalt Substituted Goethite*
 
-<figure style="width: 900px; padding: 20px" figure class="half">
-    <a href="/assets/images/IMG_4236.JPG"><img src="/assets/images/IMG_4236.JPG"></a>
-    <a href="/assets/images/IMG_4249.PNG"><img src="/assets/images/IMG_4249.PNG"></a>
-    <figcaption></figcaption>
-</figure>
 
 ## Affiliations
 
@@ -52,3 +47,9 @@ Senior Thesis: *Acid Mine Drainage Simulated Leaching Behavior of Goethite and C
 
 ## Contact:
 penpr001@umn.edu
+
+<figure style="width: 900px; padding: 20px" figure class="half">
+    <a href="/assets/images/IMG_4236.JPG"><img src="/assets/images/IMG_4236.JPG"></a>
+    <a href="/assets/images/IMG_4249.PNG"><img src="/assets/images/IMG_4249.PNG"></a>
+    <figcaption></figcaption>
+</figure>
