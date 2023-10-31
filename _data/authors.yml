@@ -3,16 +3,16 @@
 Shanti Penprase:
   name             : "Shanti Penprase"
   avatar           : "https://mnimorph.github.io/assets/images/headshots/penprase_2020_square_480px.jpg"
-  bio              : "Ph.D. Candidate <br/>Department of Earth & Environmental Sciences<br/>"
-  location         : Minneapolis, Minnesota, USA
+  bio              : "Ph.D. Candidate <br/>Department of Earth & Environmental Sciences, University of Minnesota<br/>"
+  #location         : Minneapolis, Minnesota, USA
   email            : penpr001@umn.edu
   links:
     # label: "University website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://www.esci.umn.edu/people/Andrew-Wickert"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/shantidune"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/shantidune"
       # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"

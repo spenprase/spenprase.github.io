@@ -7,49 +7,32 @@ permalink: /about/
 author: Shanti Penprase
 author_profile: true
 
-classes: wide
+#classes: wide
 # If you want a header image
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/IMG_1728 2.JPG
   caption: "Mississippi River in Autumn"
+excerpt: I am a PhD candidate at the University of Minnesota, where I use field-based geochronology and sediment coring, remote sensing, and computational modeling to study how river systems respond to changes in climate and base level (the water level at a river’s mouth), and sedimentation (either driven by glaciation or agriculture).
 ---
+ 
+I’m interested in using natural systems to address broad geomorphic questions and connecting field-based and modeling approaches to understand the impacts of climate and land use change on Earth’s landscapes.
 
-<figure style="width: 450px; padding: 20px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/banners/IMG_2247.JPG" alt="">
-  <figcaption>OSL Lab Aftermath</figcaption>
-</figure>
-
-
-A native of southern California, I moved to Minnesota in 2012 to attend Carleton College and experience snow for the first time. Since then I've grown to love the unique charm and fascinating geology of the upper Midwest (though I do miss the mountains and beach from time to time).
-
-In 2016 I graduated from Carleton College with a Bachelor of Arts in Geology. After graduation I completed an Americorps year of service through the Minnesota Pollution Control Agency, where I helped run the Minnesota Water Stewards program in the Twin Cities Metro area, a community education focused on clean water and stormwater runoff mitigation. Following this I worked as a Programs Assistant at Mississippi Watershed Management Organization from 2017-2018, completing water quality monitoring along the Mississippi River and continuing community education and engagement work in the Twin Cities metro area. Since 2018, I've been working towards my Ph.D. at the University of Minnesota.
-
-## Education
-
-2018-Present (expected 2024):
-* **Ph.D. Candidate**, Department of Earth & Environmental Sciences, the University of Minnesota Twin Cities, *Advisor: Andrew Wickert*
-
-Tentative Thesis Title: *“Glacial impacts on fluvial systems: erosion, long profile evolution, and terrace chronology"*
-
-2012-2016:
-* **Bachelor of Arts, Geology**, Carleton College
-
-Senior Thesis: *Acid Mine Drainage Simulated Leaching Behavior of Goethite and Cobalt Substituted Goethite*
-
+I graduated from Carleton College with a BA in Geology. Before starting my PhD I worked for a few years in the non-profit and local government sectors focusing on community outreach and public education relating to water pollution in the Twin Cities Metro Area. To learn more about my current projects, see my Research Page.
+ 
+<figure class="third">
+	<img src="/assets/images/banners/IMG_2277.JPG">
+	<img src="/assets/images/IMG_5616_2.JPG">
+	<img src="/assets/images/PXL_20220227_211207835.JPEG">
+	<figcaption></figcaption>
+</figure> 
 
 ## Affiliations
 
 * [Saint Anthonoy Falls Laboratory](https://cse.umn.edu/safl)
 * [Department of Earth and Environmental Sciences](https://www.esci.umn.edu/)
-* [Earth Surface Processes Group, University of Minnesota](https://umn-earth-surface.github.io/)
+* [MNiMorph Group, University of Minnesota](https://mnimorph.github.io/)
 
 ## Contact:
 penpr001@umn.edu
-
-<figure style="width: 900px; padding: 20px" figure class="half">
-    <a href="/assets/images/IMG_4236.JPG"><img src="/assets/images/IMG_4236.JPG"></a>
-    <a href="/assets/images/IMG_4249.PNG"><img src="/assets/images/IMG_4249.PNG"></a>
-    <figcaption></figcaption>
-</figure>
