@@ -21,11 +21,10 @@ I’m interested in using natural systems to address broad geomorphic questions 
 
 I graduated from Carleton College with a BA in Geology. Before starting my PhD I worked for a few years in the non-profit and local government sectors focusing on community outreach and public education relating to water pollution in the Twin Cities Metro Area. To learn more about my current projects, see my Research Page.
  
-<figure class="third">
+<figure class="half">
 	<img src="/assets/images/banners/IMG_2277.JPG">
 	<img src="/assets/images/IMG_5616_2.JPG">
-	<img src="/assets/images/PXL_20220227_211207835.JPEG">
-	<figcaption>Left: OSL lab aftermath, Center: Augering a fluvial terrace, Right: Vibracoring into frozen sediments. </figcaption>
+	<figcaption>Left: OSL lab aftermath, Right: Vibracoring into frozen sediments. </figcaption>
 </figure> 
 
 ## Affiliations

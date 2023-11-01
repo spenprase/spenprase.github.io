@@ -23,20 +23,20 @@ feature_row:
     alt: "Research"
     title: "Research"
     excerpt: "I study how rivers respond to changing climate and land use using field, lab, and computationally-based approaches. My research interests include geochronology, remote sensing, and paraglacial landscape evolution."
-    url: "/Research"
+    url: "http://spenprase.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
   - image_path: /assets/images/IMG_0738.jpg
     alt: "Teaching"
     title: "Teaching and Community Building"
     excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to my teaching, mentorship, and research collaborations."
-    url: "/Teaching"
+    url: "http://spenprase.github.io/teaching/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/IMG_4249.PNG
     title: "Collaboration"
     excerpt: "I'm excited eager to get in touch with folks to talk science. Please feel free to reach out about potential collaborations!"
-    url: "/About"
+    url: "http://spenprase.github.io/about/"
     btn_label: "Let's Get In Touch"
     btn_class: "btn--inverse"       
 ---
