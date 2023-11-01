@@ -7,7 +7,7 @@ permalink: /about/
 author: Shanti Penprase
 author_profile: true
 
-#classes: wide
+classes: wide
 # If you want a header image
 header:
   overlay_color: "#222222" #"#5e616c"
@@ -25,7 +25,7 @@ I graduated from Carleton College with a BA in Geology. Before starting my PhD I
 	<img src="/assets/images/banners/IMG_2277.JPG">
 	<img src="/assets/images/IMG_5616_2.JPG">
 	<img src="/assets/images/PXL_20220227_211207835.JPEG">
-	<figcaption></figcaption>
+	<figcaption>Left: OSL lab aftermath, Center: Augering a fluvial terrace, Right: Vibracoring into frozen sediments. </figcaption>
 </figure> 
 
 ## Affiliations
