@@ -10,8 +10,8 @@ header:
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "Alluvial fans in the Aklavik Range, NWT, Canada"  
-excerpt: I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth Sciences at Dartmouth College. I'm interested in the impacts of deglaciation, climate, and humans on landscapes. <br />
+  caption: "Aklavik Range, NWT, Canada"  
+excerpt: I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth & Planetary Sciences at Dartmouth College. I'm interested in the impacts of climate, deglaciation, and humans on landscapes. <br />
 
 # Includes author profile in sidebar
 author: Shanti Penprase
@@ -22,16 +22,14 @@ feature_row:
   - image_path: /assets/images/IMG_1834.JPG
     image_size: 100px
     alt: "About"
-    title: "About"
-    excerpt: "As someone who grew up in southern California (and had never seen snowfall before college!) but now loves to study glacial landscapes, I like to think of myself as <q>from SoCal to so cold!</q>"
+    title: "About Me"
     url: "http://spenprase.github.io/about/"
-    btn_label: "About Me"
+    btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/IMG_0573.JPG
     alt: "Research"
     image_size: 20px
     title: "Research"
-    excerpt: "I study how landscapes evolve over time and respond to changes in climate, glaciation and human activity using a combination of remote sensing, field, lab, and computational approaches."
     url: "http://spenprase.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -39,9 +37,8 @@ feature_row:
     alt: "Teaching"
     image_size: 500px
     title: "Teaching and Mentoring"
-    excerpt: "Building an equitable, supportive scientific community is my passion. I apply this in my approach to teaching and mentoring undergraduate students."
     url: "http://spenprase.github.io/teaching/"
-    btn_label: "Learn More"
+    btn_label: "Read More"
     btn_class: "btn--inverse"      
 ---
 
