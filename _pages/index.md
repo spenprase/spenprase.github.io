@@ -10,46 +10,91 @@ header:
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "Aklavik Range, NWT, Canada"  
-excerpt: I am the Guarini Dean's Postdoctoral Fellow in the Department of Earth & Planetary Sciences at Dartmouth College. I'm interested in the impacts of climate, deglaciation, and humans on landscapes. <br />
+  caption: "Aklavik Range, NWT, Canada"
 
-# Includes author profile in sidebar
-author: Shanti Penprase
-author_profile: true
+# Sidebar profile turned off — bio now lives in the intro block below
+author_profile: false
 
-#  
+#
 feature_row:
-  - image_path: /assets/images/IMG_1834.JPG
-    image_size: 100px
-    alt: "About"
-    title: "About Me"
-    url: "http://spenprase.github.io/about/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/IMG_0573.JPG
-    alt: "Research"
-    image_size: 20px
-    title: "Research"
+    image_size: 150px
+    alt: "Arctic Alluvial Fans"
+    title: "Arctic Alluvial Fans"
     url: "http://spenprase.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/DSC_0274_export.jpg
-    alt: "Teaching"
-    image_size: 500px
-    title: "Teaching and Mentoring"
-    url: "http://spenprase.github.io/teaching/"
+  - image_path: assets/images/Dartmouth/kettlebox_prep2.JPG
+    alt: "Glacial Kettle Experiments"
+    image_size: 150px
+    title: "Glacial Kettle Experiments"
+    url: "http://spenprase.github.io/research/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"      
+    btn_class: "btn--inverse"
+  - image_path: assets/images/Dartmouth/plow_presettle.JPG
+    alt: "Post-glacial and Post-settlement change in the upper Mississippi River Valle"
+    image_size: 150px
+    title: "Post-glacial and Post-settlement change in the upper Mississippi River Valley"
+    url: "http://spenprase.github.io/research/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
-{%include feature_row%}
+<style>
+html, body {
+  overflow-x: hidden;
+}
+.home-section {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+</style>
 
-<p style="font-size: 1.8rem; font-weight: bold">Latest News: Feature on <i>Science.org</i> </p> {: .text-center}
-My [recent research article in <i>Geology</i>](https://pubs.geoscienceworld.org/gsa/geology/article/53/6/535/653452/Plow-versus-Ice-Age-Erosion-rate-variability-from){:target="_blank"} was featured on <i>Science.org</i>. This work compares thousand-year erosion rates triggered by deglacial climate change to the massive increase in erosion seen with the initiation of Euro-American agriculture in the upper Mississippi River Valley. We find that, in the battle between "Plow vs Ice Age", the plow has triggered erosion rates approximately twelve times higher than variability driven by changes in climate during deglaciation. 
+<div class="home-section" style="background-color: #f4f1ec; padding: 2.5rem 1.5rem;">
+  <div style="display: flex; align-items: center; gap: 2.5rem; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
+    <div style="flex: 1 1 33%; min-width: 250px; max-width: 340px;">
+      <img src="/assets/images/IMG_1834.JPG" alt="Shanti Penprase" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;">
+    </div>
+    <div style="flex: 1 1 55%; min-width: 250px;">
+      <h1 style="margin-bottom: 0.25rem;">Dr. Shanti B. Penprase</h1>
+      <p style="font-size: 1.1rem; font-weight: 600; color: #6f6f6f; margin-top: 0;">Guarini Dean's Postdoctoral Fellow, Department of Earth &amp; Planetary Sciences, Dartmouth College</p>
+      <p>I study how climate, glaciation, and human land use shape landscapes over timescales ranging from millennia to the present day. My work spans Arctic fluvial and lacustrine systems, glacial meltwater routing, and the long-term impacts of agriculture on erosion.</p>
+    </div>
+  </div>
+</div>
 
-**[Click here](https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets) to read the Science feature and learn more about this exciting project.**
+<div class="home-section" style="background-color: #607744; padding: 1rem 0.5rem; color: #ffffff;">
+  <h2 style="text-align: center; color: #ffffff; margin-top: 0; margin-bottom: 0.75rem; font-size: 1.4rem;">Research Projects</h2>
+  <div class="feature-row-skinny" style="max-width: 750px; margin: 0 auto; font-size: 0.75rem;">
+  {% include feature_row %}
+  </div>
+</div>
 
-<figure class="0.75">
-	<img src="/assets/images/Science%20Article%20Preview.png" alt="Science Article preview">
-	<figcaption></figcaption>
-</figure>
+<style>
+.feature-row-skinny .archive__item-title {
+  color: #ffffff;
+  font-size: 1rem;
+  margin-top: 0.4rem;
+  margin-bottom: 0.2rem;
+}
+.feature-row-skinny .archive__item-excerpt,
+.feature-row-skinny .archive__item-excerpt p {
+  display: none;
+}
+.feature-row-skinny .btn--inverse {
+  background-color: #ffffff;
+  color: #607744;
+  border-color: #ffffff;
+  padding: 0.3em 0.8em;
+  font-size: 0.75rem;
+}
+.feature-row-skinny .feature__wrapper {
+  margin-bottom: 0;
+}
+</style>
