@@ -148,5 +148,5 @@ html, body {
 </div>
 
 <div style="text-align: center; margin-top: 1.75rem;">
-  <a href="/publications/" style="display: inline-block; background-color: #607744; color: #ffffff; padding: 0.7em 1.6em; border-radius: 4px; font-weight: 600; text-decoration: none;">View My Latest Publications →</a>
+  <a href="https://scholar.google.com/citations?user=Kjo77TIAAAAJ&hl=en" target="_blank" style="display: inline-block; background-color: #607744; color: #ffffff; padding: 0.7em 1.6em; border-radius: 4px; font-weight: 600; text-decoration: none;">View My Latest Publications →</a>
 </div>
