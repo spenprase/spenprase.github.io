@@ -106,7 +106,7 @@ html, body {
       <div class="img-col"><img src="/assets/images/Dartmouth/lake_crew.JPG" alt="Arctic Sedimentation"></div>
       <div class="text-col">
         <h3>Arctic Sedimentation</h3>
-        <p>This project is interested in understanding Holocen post-glacial climate and sedimentation rate along the Aklavik Range in the Northwest Territories of Canada. This work has key implications for understanding how Arctic landscapes recover during periods of major climate change. I am currently working to develop this project into a proposal with several collaborators at Dartmouth College and we collected preliminary data for this project in Summer 2025.</p>
+        <p>This project is interested in understanding Holocene post-glacial climate and sedimentation rate along the Aklavik Range in the Northwest Territories of Canada. This work has key implications for understanding how Arctic landscapes recover during periods of major climate change. I am currently working to develop this project into a proposal with several collaborators at Dartmouth College and we collected preliminary data for this project in Summer 2025.</p>
       </div>
     </div>
   </div>
@@ -120,7 +120,7 @@ html, body {
       <div class="img-col"><img src="/assets/images/Dartmouth/plow_buriedsoil.JPG" alt="Plow vs Ice Age"></div>
       <div class="text-col">
         <h3>Plow vs. Ice Age</h3>
-        <p> Landscapes of the midwest are still recovering from long-term, post-glacial climate. Yet, Euro-American settlement in the region following the 1850s CE has majorly altered geomorphic processes. This work, published in <em>Geology</em>, examines how changes in climate, glaciation, and land use impacted fluvial erosoin rates throughout the late Quaternary and into the post-settlement period. The project found that erosion rates triggered by Euro-American agriculture are 8 to 10 times higher than the normal range of erosion rate for the region over the last 20,000 years. This has crucial implications for contextualizing the role of humans in geomorphic processes.</p>
+        <p> Landscapes of the midwest are still recovering from long-term, post-glacial climate. Yet, Euro-American settlement in the region following the 1850s CE has majorly altered geomorphic processes. This work, published in <em>Geology</em>, examines how changes in climate, glaciation, and land use impacted fluvial erosion rates throughout the late Quaternary and into the post-settlement period. The project found that erosion rates triggered by Euro-American agriculture are 8 to 10 times higher than the normal range of erosion rate for the region over the last 20,000 years. This has crucial implications for contextualizing the role of humans in geomorphic processes.</p>
         <p><strong><a href="https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets" target="_blank">This project was featured on Science.org →</a></strong></p>
       </div>
     </div>
@@ -130,7 +130,7 @@ html, body {
     <div class="research-row">
       <div class="img-col"><img src="/assets/images/DSC_7521.jpeg" alt="Laurentide Meltwater Routing and Slackwater Deposition"></div>
       <div class="text-col">
-        <h3>Laurentide Meltwater Routing and Slackwater Deposition</h3>
+        <h3>Tracing late-glacial meltwater routing to the ocean using slackwater sediment records</h3>
         <p>Slackwater sediments are deposited with river mouths are inundated by floodwaters. In this project, we analyzed a slackwater sediment core taken from a tributary river system in southeastern Minnesota and related sediment geochemistry to sediment provenance and shifts in southern Laurentide Ice Sheet meltwater routing in the Holocene. University of Minnesota undergraduate Abigail Wilwerding (see Teaching & Mentoring page) was instrumental in this work and the manuscript is currently in review.</p>
       </div>
     </div>
@@ -140,7 +140,7 @@ html, body {
     <div class="research-row reverse">
       <div class="img-col"><img src="/assets/images/IMG_3837.png" alt="Collaborator-Driven Projects"></div>
       <div class="text-col">
-        <h3>Collaborator-Driven Projects</h3>
+        <h3>Collaborator-Driven Projects: Climate and Glacial Change in Southern Patagonia</h3>
         <p>I have been fortunate to collaborate on several co-authored research publications from work in the Southern Patagonian Ice Field. These projects include constraining late-Quaternary glacial change in relation paleoclimate for the southern hemisphere via geochronology and geomorphic mapping, building and installing open-source ablation stakes on the Perito Moreno glacier, and using modern river discharge coming off the Ice Field to demonstrate increasing glacial melt with modern warming.</p>
       </div>
     </div>
