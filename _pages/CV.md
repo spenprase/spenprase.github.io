@@ -133,7 +133,7 @@ html, body {
     <div class="cv-date">2018 – 2024</div>
     <div class="cv-details">
       <p class="cv-title">Research &amp; Teaching Assistant</p>
-      <p class="cv-sub">Earth &amp; Environmental Sciences, University of Minnesota, Minneapolis, MN</p>
+      <p class="cv-sub">Department of Earth &amp; Environmental Sciences, University of Minnesota, Minneapolis, MN</p>
     </div>
   </div>
 
@@ -234,21 +234,21 @@ html, body {
   <div class="cv-row">
     <div class="cv-date">Fall 2025</div>
     <div class="cv-details">
-      <p class="cv-title">AGU Fall Meeting &mdash; Sedimentary Records of Holocene Climate and Environmental Change (Invited Speaker)</p>
+      <p class="cv-title">AGU Fall Meeting &mdash; Sedimentary Records of Holocene Climate and Environmental Change (Invited Talk)</p>
     </div>
   </div>
 
   <div class="cv-row">
     <div class="cv-date">Spring 2025</div>
     <div class="cv-details">
-      <p class="cv-title">Soft Rock Seminar, University of Texas Austin (Invited Speaker)</p>
+      <p class="cv-title">Soft Rock Seminar, University of Texas Austin </p>
     </div>
   </div>
 
   <div class="cv-row">
     <div class="cv-date">Spring 2024</div>
     <div class="cv-details">
-      <p class="cv-title">Ronneberg Lecture, Denison University (Invited Speaker)</p>
+      <p class="cv-title">Ronneberg Lecture, Denison University </p>
     </div>
   </div>
 
@@ -262,28 +262,28 @@ html, body {
   <div class="cv-row">
     <div class="cv-date">Fall 2022</div>
     <div class="cv-details">
-      <p class="cv-title">Beyond the Lab Speaker Series, Saint Anthony Falls Laboratory (Panel Moderator)</p>
+      <p class="cv-title">Beyond the Lab Speaker Series, Saint Anthony Falls Laboratory</p>
     </div>
   </div>
 
   <div class="cv-row">
     <div class="cv-date">Spring 2022</div>
     <div class="cv-details">
-      <p class="cv-title">Carleton College Geology Seminars (Departmental Seminar Speaker)</p>
+      <p class="cv-title">Carleton College Geology Department Seminar</p>
     </div>
   </div>
 
   <div class="cv-row">
     <div class="cv-date">Spring 2021</div>
     <div class="cv-details">
-      <p class="cv-title">Minnesota Geological Survey (Invited Speaker)</p>
+      <p class="cv-title">Minnesota Geological Survey Lunch Speaker Series</p>
     </div>
   </div>
 
   <div class="cv-row">
     <div class="cv-date">Spring 2021</div>
     <div class="cv-details">
-      <p class="cv-title">American Institute of Professional Geologists, Minnesota Section (Invited Speaker)</p>
+      <p class="cv-title">American Institute of Professional Geologists, Minnesota Section</p>
     </div>
   </div>
   </div>
@@ -297,7 +297,7 @@ html, body {
     <div class="cv-date">2023</div>
     <div class="cv-details">
       <p class="cv-title">Alvin Anderson Award</p>
-      <p class="cv-sub">Saint Anthony Falls Laboratory, University of Minnesota &mdash; for excellence in research related to water resources and sediment transport; $2,500 in student support</p>
+      <p class="cv-sub">Saint Anthony Falls Laboratory, University of Minnesota &mdash; for excellence in research related to water resources and sediment transport</p>
     </div>
   </div>
 
@@ -345,7 +345,7 @@ html, body {
 
 <div class="cv-section cv-section-teaching">
   <div class="cv-section-inner">
-  <h2>Teaching</h2>
+  <h2>Courses Taught</h2>
 
   <div class="cv-row">
     <div class="cv-date">Winter 2027</div>
