@@ -110,7 +110,7 @@ html, body {
 </style>
 
 <div class="cv-header">
-  <img src="assets/images/Dartmouth/NZ_Shanti.JPG" alt="Shanti Penprase">
+  <img src="/assets/images/Dartmouth/NZ_Shanti.JPG" alt="Shanti Penprase">
   <div>
     <h1>Shanti B. Penprase</h1>
     <p><a href="mailto:shanti.b.penprase@dartmouth.edu">shanti.b.penprase@dartmouth.edu</a></p>
