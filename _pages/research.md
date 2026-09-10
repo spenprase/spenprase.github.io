@@ -96,7 +96,7 @@ html, body {
       <div class="img-col"><img src="/assets/images/Dartmouth/kettlebox_prep.JPG" alt="Kettle Lakes"></div>
       <div class="text-col">
         <h3>From ice blocks to sediment records: insights into deglacial kettles</h3>
-        <p>Kettles form when buried glacial ice melts, leaving behind a depression. These features have major impacts on postglacial topography and the rates and processes of landscape evolution following ice retreat. This project uses laboratory experiments and structure-from-motion photogrammetry to study the relationships between ice burial depth, spacing, and volume with the resulting surface topography. We are analyzing our experimental topography results using a number of computational approaches, including Fourier transforms, and comparing our findings to real kettle landscapes in Arctic and post-glacial settings. This project is being completed in partnership with my undergraduate research student Lang Burgess (see Teaching & Mentoring page) and in collaboration with Luke Zoet at University of Wisconsin.</p>
+        <p>Kettles form when buried glacial ice melts, leaving behind a depression. These features have major impacts on postglacial topography and landscape evolution following ice retreat. This project uses laboratory experiments and structure-from-motion photogrammetry to study the relationships between ice burial conditions the resulting surface topography. We are analyzing our experimental topography results using a number of computational approaches and comparing our findings to real kettle landscapes in Arctic and post-glacial settings. This project is being completed in partnership with my undergraduate research student Lang Burgess (see Teaching & Mentoring page) and in collaboration with Luke Zoet at University of Wisconsin.</p>
       </div>
     </div>
   </div>
@@ -106,7 +106,7 @@ html, body {
       <div class="img-col"><img src="/assets/images/Dartmouth/lake_crew.JPG" alt="Arctic Sedimentation"></div>
       <div class="text-col">
         <h3>Arctic Sedimentation</h3>
-        <p>In this project, which I am developing into an NSF proposal with several collaborators at Dartmouth College, we explore how changes in climate over the Holocene have impacted sedimentation and sediment transport in the Arctic.</p>
+        <p>This project is interested in understanding Holocen post-glacial climate and sedimentation rate along the Aklavik Range in the Northwest Territories of Canada. This work has key implications for understanding how Arctic landscapes recover during periods of major climate change. I am currently working to develop this project into a proposal with several collaborators at Dartmouth College and we collected preliminary data for this project in Summer 2025.</p>
       </div>
     </div>
   </div>
@@ -120,7 +120,7 @@ html, body {
       <div class="img-col"><img src="/assets/images/Dartmouth/plow_buriedsoil.JPG" alt="Plow vs Ice Age"></div>
       <div class="text-col">
         <h3>Plow vs. Ice Age</h3>
-        <p>This work, published in <em>Geology</em> and featured on <em>Science.org</em>, examines how changes in climate, glaciation, and land use impact the morphology of river catchments. The project connects landscapes shaped by the Last Glacial Maximum (roughly 20,000 years ago) to more recent changes driven by Euro-American agriculture in the Upper Mississippi River Valley.</p>
+        <p> Landscapes of the midwest are still recovering from long-term, post-glacial climate. Yet, Euro-American settlement in the region following the 1850s CE has majorly altered geomorphic processes. This work, published in <em>Geology</em>, examines how changes in climate, glaciation, and land use impacted fluvial erosoin rates throughout the late Quaternary and into the post-settlement period. The project found that erosion rates triggered by Euro-American agriculture are 8 to 10 times higher than the normal range of erosion rate for the region over the last 20,000 years. This has crucial implications for contextualizing the role of humans in geomorphic processes.</p>
         <p><strong><a href="https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets" target="_blank">This project was featured on Science.org →</a></strong></p>
       </div>
     </div>
@@ -131,7 +131,7 @@ html, body {
       <div class="img-col"><img src="/assets/images/DSC_7521.jpeg" alt="Laurentide Meltwater Routing and Slackwater Deposition"></div>
       <div class="text-col">
         <h3>Laurentide Meltwater Routing and Slackwater Deposition</h3>
-        <p>In this project, I worked with University of Minnesota undergraduate Abigail Wilwerding to understand the source of glacially-derived slackwater sediments collected near the mouth of our field area in southeastern Minnesota.</p>
+        <p>Slackwater sediments are deposited with river mouths are inundated by floodwaters. In this project, we analyzed a slackwater sediment core taken from a tributary river system in southeastern Minnesota and related sediment geochemistry to sediment provenance and shifts in southern Laurentide Ice Sheet meltwater routing in the Holocene. University of Minnesota undergraduate Abigail Wilwerding (see Teaching & Mentoring page) was instrumental in this work and the manuscript is currently in review.</p>
       </div>
     </div>
   </div>
@@ -141,7 +141,7 @@ html, body {
       <div class="img-col"><img src="/assets/images/IMG_3837.png" alt="Collaborator-Driven Projects"></div>
       <div class="text-col">
         <h3>Collaborator-Driven Projects</h3>
-        <p>I have been fortunate to collaborate on several co-authored research publications from work in the Southern Patagonian Ice Field. Each of these projects has since been published.</p>
+        <p>I have been fortunate to collaborate on several co-authored research publications from work in the Southern Patagonian Ice Field. These projects include constraining late-Quaternary glacial change in relation paleoclimate for the southern hemisphere via geochronology and geomorphic mapping, building and installing open-source ablation stakes on the Perito Moreno glacier, and using modern river discharge coming off the Ice Field to demonstrate increasing glacial melt with modern warming.</p>
       </div>
     </div>
   </div>
