@@ -374,11 +374,11 @@ permalink: /teaching/
     </div>
 
     <div class="course-card">
-      <img src="/assets/images/Dartmouth/slackwater_abbylab.JPG" alt="Abigail Wilwerding">
+      <img src="/assets/images/Dartmouth/Abby_poster.JPG" alt="Abigail Wilwerding">
       <div class="course-body">
         <h3>Abigail Wilwerding</h3>
         <div class="course-meta">University of Minnesota</div>
-        <p> Abby Wilwerding (University of Minnesota '24) began working with me in Spring 2023 to analyze a slackwater sediment core from southeastern Minnesota. She completed detailed sediment stratigraphic descriptions and built a stratigraphic column for the sediment core. Abby also organized and helped manage X-ray fluorescence analysis of the cores at the Unviversity of Minnesota Duluth Large Lakes Observatory and was instrumental in initial data analysis and statistical interpretation of our cores in relation to sediment provenance. Abby received an Undergraduate Research Opportunity grant from the University of Minnesota for her work and presented her research at the 2024 North-Central/South-Central Section Geological Society of America Regional Conference. Following graduation, Abby worked in environmental consulting for several years and began a masters program at the University of Wisconsin Madison in Fall 2026. She is also the second author on the manuscript for this work, which is currently in review.</p>
+        <p> Abby Wilwerding (University of Minnesota '24) began working with me in Spring 2023 to analyze a slackwater sediment core from southeastern Minnesota. She completed detailed sediment descriptions, built a stratigraphic column, and managed X-ray fluorescence analysis of the core at the Unviversity of Minnesota Duluth Large Lakes Observatory. Abby was instrumental in initial data analysis and statistical interpretation of our cores in relation to sediment provenance. She received an Undergraduate Research Opportunity grant from the University of Minnesota for her work and presented her research at the 2024 North-Central/South-Central Section Geological Society of America Regional Conference. Following graduation, Abby worked in environmental consulting for several years and began a masters program at the University of Wisconsin Madison in Fall 2026. She is the second author on the manuscript for this work, which is currently in review.</p>
       </div>
     </div>
   </div>
