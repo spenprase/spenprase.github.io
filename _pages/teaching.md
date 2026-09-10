@@ -189,11 +189,11 @@ permalink: /teaching/
 
   <div class="guestta-stats">
     <div class="stat">
-      <div class="stat-number">5</div>
+      <div class="stat-number">7</div>
       <div class="stat-label">Guest Lectures</div>
     </div>
     <div class="stat">
-      <div class="stat-number">5</div>
+      <div class="stat-number">9</div>
       <div class="stat-label">TA Appointments</div>
     </div>
     <div class="stat">
@@ -349,12 +349,12 @@ permalink: /teaching/
 
 <div class="mentoring-section">
   <h2>Undergraduate Mentoring</h2>
-  <p class="mentoring-intro">Mentoring undergraduate researchers is one of the most rewarding parts of my work. I aim to give students real ownership over a piece of a project &mdash; from fieldwork and lab analysis through to sharing their findings with the broader scientific community.</p>
+  <p class="mentoring-intro">I have been fortunate to supervise undergraduate students from a wide variety of identities, backgrounds, and interests. My time with students has ranged from a single semester or field campaign, through to multi-year collaborations and co-authorship on peer-reviewed manuscripts. Many of my students have presented their work in professional contexts (including national conferences) and have continued on into positions in environmental consulting, local government, and higher education. I enjoy working with each student to help them identify their scientific interests and build projects that align with their personal and professional goals. Through our time together, I work to empower students to feel ownership over their research and engage as active inquirers into Earth's processes. </p>
 
   <div class="mentoring-stats">
     <div class="stat">
       <div class="stat-number">11</div>
-      <div class="stat-label">Students Mentored</div>
+      <div class="stat-label">Undergraduate Research Students</div>
     </div>
     <div class="stat">
       <div class="stat-number">4</div>
@@ -369,7 +369,7 @@ permalink: /teaching/
       <div class="course-body">
         <h3>Lang Burgess</h3>
         <div class="course-meta">Dartmouth College</div>
-        <p>Investigating kettle lake dynamics through field experiments and structure-from-motion photogrammetry. Senior thesis work, to be presented at the American Geophysical Union (AGU) 2026 meeting.</p>
+        <p> Lang Burgess (Dartmouth College '27) has been a driving force behind the kettle lake research project since Spring 2025, developing the standard operating procedures for structure-from-motion and DEM generation in Metashape and conducting experiments using ice spheres and our "Sandbox of Science". This project was Lang's first experience with scientific research and through our time together she has learned structure-from-motion photogrammetary, GIS, and glacial geology. Lang applied skills she learned from our work together during a term abroad at the University of Canterbury, New Zealand, where she used QGIS for landslide analysis. Lang has since received a college-level undergraduate research grant to support her work and is completing a senior thesis on this project during the 2026-2027 academic year. She will be attending and presenting her research at the 2026 American Geophysical Union meeting in San Francisco.</p>
       </div>
     </div>
 
@@ -378,7 +378,7 @@ permalink: /teaching/
       <div class="course-body">
         <h3>Abigail Wilwerding</h3>
         <div class="course-meta">University of Minnesota</div>
-        <p>Began as an undergraduate researcher studying slackwater core description and X-ray fluorescence analysis. Her work led to co-authorship on a peer-reviewed publication and a presentation at a regional GSA meeting.</p>
+        <p> Abby Wilwerding (University of Minnesota '24) began working with me in Spring 2023 to analyze a slackwater sediment core from southeastern Minnesota. She completed detailed sediment stratigraphic descriptions and built a stratigraphic column for the sediment core. Abby also organized and helped manage X-ray fluorescence analysis of the cores at the Unviversity of Minnesota Duluth Large Lakes Observatory and was instrumental in initial data analysis and statistical interpretation of our cores in relation to sediment provenance. Abby received an Undergraduate Research Opportunity grant from the University of Minnesota for her work and presented her research at the 2024 North-Central/South-Central Section Geological Society of America Regional Conference. Following graduation, Abby worked in environmental consulting for several years and began a masters program at the University of Wisconsin Madison in Fall 2026. She is also the second author on the manuscript for this work, which is currently in review.</p>
       </div>
     </div>
   </div>
