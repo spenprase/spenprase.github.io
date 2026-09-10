@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#222222"
   overlay_filter: "0.2"
-  overlay_image: assets/images/banners/IMG_1354.JPG
+  overlay_image: assets/images/Dartmouth/lake_header.JPG
   caption: "Aklavik Range, NWT, Canada"
 ---
 
@@ -85,8 +85,8 @@ html, body {
     <div class="research-row">
       <div class="img-col"><img src="/assets/images/IMG_0573.JPG" alt="Cool Fans"></div>
       <div class="text-col">
-        <h3>Cool Fans</h3>
-        <p>The processes governing alluvial fan dynamics in Arctic regions are uniquely sensitive to changes in climate and frost-based erosional processes. Fans serve as valuable archives of paleoclimatic and paleoerosional change, acting as natural experiments in how landscapes respond to a changing climate.</p>
+        <h3>Alluvial fans as archives of Arctic climatic change</h3>
+        <p>Alluvial fans serve as valuable archives of past climate and erosion rate. In the Arctic, this record is shaped by frost-driven processes. Yet, the primary drivers shaping Arctic fan sedimentation processes remain largely understudied, despite the pressing impacts of modern climate warming. This project, which focuses on the Aklavik Range of the Richardson Mountains in the Northwest Territories, Canada, uses remote sensing to explore how Artic climate shapes fan sediment transport and debris flow recurrence from the Holocene to today.</p>
       </div>
     </div>
   </div>
@@ -95,8 +95,8 @@ html, body {
     <div class="research-row reverse">
       <div class="img-col"><img src="/assets/images/Dartmouth/kettlebox_prep.JPG" alt="Kettle Lakes"></div>
       <div class="text-col">
-        <h3>Kettle Lakes</h3>
-        <p>Kettle depressions form when a block of ice from a retreating ice margin is buried and melts, leaving behind a depression at the landscape surface. Kettle lakes form when these depressions are filled by groundwater, making them one of the most abundant lake types on the planet. Their formation is directly tied to paleo-ice distribution, ice margin dynamics, and proglacial depositional processes.</p>
+        <h3>From ice blocks to sediment records: insights into deglacial kettles</h3>
+        <p>Kettles form when buried glacial ice melts, leaving behind a depression. These features have major impacts on postglacial topography and the rates and processes of landscape evolution following ice retreat. This project uses laboratory experiments and structure-from-motion photogrammetry to study the relationships between ice burial depth, spacing, and volume with the resulting surface topography. We are analyzing our experimental topography results using a number of computational approaches, including Fourier transforms, and comparing our findings to real kettle landscapes in Arctic and post-glacial settings. This project is being completed in partnership with my undergraduate research student Lang Burgess (see Teaching & Mentoring page) and in collaboration with Luke Zoet at University of Wisconsin.</p>
       </div>
     </div>
   </div>
