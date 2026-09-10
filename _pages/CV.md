@@ -6,8 +6,8 @@ author_profile: false
 header:
   overlay_color: "#222222"
   overlay_filter: "0.2"
-  overlay_image: assets/images/banners/IMG_1354.JPG
-  caption: "Aklavik Range, NWT, Canada"
+  overlay_image: assets/images/banners/PeritoMorenoSideRiver.JPG
+  caption: "Perito Moreno Glacier, Patagonia, Argentina"
 ---
 
 <style>
