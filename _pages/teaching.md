@@ -1,14 +1,14 @@
 ---
 layout: splash
-title: "Teaching"
+title: "Teaching & Mentoring"
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/IMG_0342.JPG
+  overlay_image: /assets/images/DSC2877.JPG
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: "Whitewater River Valley, Minnesota, USA"
+  caption:
 excerpt: I empower my students to build knowledge, confidence, and skills to examine how climate, glaciers, humans, and landscapes interact.
 
 
@@ -77,29 +77,29 @@ permalink: /teaching/
 
 <div class="courses-grid">
   <div class="course-card">
-    <img src="/assets/images/DSC2877.JPG" alt="Quaternary Paleoclimatology">
+    <img src="/assets/images/Dartmouth/Perito_lake.jpg" alt="Quaternary Paleoclimatology">
     <div class="course-body">
       <h3>Quaternary Paleoclimatology</h3>
       <div class="course-meta">Winter 2027 · Instructor of Record · Dartmouth College</div>
-      <p>Upper-level undergraduate and graduate lab course focused on Quaternary paleoclimate dynamics and critical evaluation of climate change mechanisms.</p>
+      <p>Upper-level undergraduate and graduate course where students explore how climate has shaped ocean and continental processes across geologic time, and the growing role humans play in that system. Topics span the oceanic, atmospheric, geomorphic, and chemical expressions of climate change in the geologic record and applications to climate models via student-led lectures, primary literature discussions, and analysis of climate proxy datasets.</p>
     </div>
   </div>
 
   <div class="course-card">
-    <img src="/assets/images/DSC2877.JPG" alt="Earth Surface Processes & Landforms">
+    <img src="/assets/images/Dartmouth/EARS33_Lab.JPG" alt="Earth Surface Processes & Landforms">
     <div class="course-body">
       <h3>Earth Surface Processes &amp; Landforms</h3>
       <div class="course-meta">Spring 2026 · Instructor of Record · Dartmouth College</div>
-      <p>Upper-level undergraduate lab course on geomorphic processes and landforms, integrating ArcGIS Pro, field investigations, and quantitative approaches to landscape analysis.</p>
+      <p>Undergraduate course where students explored geomorphic processes through creative group in-class activities like cartoon strips, applied LiDAR and geomorphic datasets in ArcGIS Pro, and field labs measuring weathering and sediment transport using GNSS surveying. The course spanned weathering, hydrology, hillslope and fluvial processes, glacial systems, tectonic geomorphology, planetary landscapes, and landscape evolution modeling. </p>
     </div>
   </div>
 
   <div class="course-card">
-    <img src="/assets/images/DSC2877.JPG" alt="Paleoclimate & Glacial Processes Field Course">
+    <img src="/assets/images/Dartmouth/Stretch_monolake.JPG" alt="Paleoclimate & Glacial Processes Field Course">
     <div class="course-body">
       <h3>Paleoclimate &amp; Glacial Processes Field Course</h3>
       <div class="course-meta">Fall 2025 · Co-Instructor · Dartmouth College</div>
-      <p>Three-week, field-based course on geomorphic, hydrologic, and geochemical methods, focused on paleoclimate reconstruction in the Eastern Sierra Nevada Mountains, CA. Co-taught with Prof. Meredith Kelly.</p>
+      <p>Three-week field course where students applied Holocene paleoclimate proxies (including lacustrine stratigraphy and glacial ELAs) and built a Quaternary sediment map of a formerly glaciated valley in the Eastern Sierra Nevada Mountains, CA, to reconstruct regional climate history. Co-taught with Prof. Meredith Kelly.</p>
     </div>
   </div>
 </div>
