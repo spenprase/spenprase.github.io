@@ -59,7 +59,7 @@ html, body {
 <div class="home-section" style="background-color: #f4f1ec; padding: 2.5rem 1.5rem;">
   <div style="display: flex; align-items: center; gap: 2.5rem; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
     <div style="flex: 1 1 33%; min-width: 250px; max-width: 340px;">
-      <img src="/assets/images/IMG_1834.JPG" alt="Shanti Penprase" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;">
+      <img src="/assets/images/Dartmouth/NZ_Shanti.JPG" alt="Shanti Penprase" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;">
     </div>
     <div style="flex: 1 1 55%; min-width: 250px;">
       <h1 style="margin-bottom: 0.25rem;">Dr. Shanti B. Penprase</h1>
