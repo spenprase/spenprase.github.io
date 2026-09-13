@@ -81,7 +81,7 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Quaternary Paleoclimatology</h3>
       <div class="course-meta">Winter 2027 · Instructor of Record · Dartmouth College</div>
-      <p>Upper-level undergraduate and graduate course where students explore how climate has shaped ocean and continental processes across geologic time, and the growing role humans play in that system. Topics span the oceanic, atmospheric, geomorphic, and chemical expressions of climate change in the geologic record and applications to climate models via student-led lectures, primary literature discussions, and analysis of climate proxy datasets.</p>
+      <p>Upper-level undergraduate and graduate course where students explore how climate has shaped ocean and continental processes across geologic time, and the growing role humans play in that system. Topics span the oceanic, atmospheric, geomorphic, and chemical expressions of climate change in the geologic record and applications to climate models. The course includes several problem sets applying climate datasets, primary literature review, student-led topical presentations and discussions, and culminates in a topical paper that provides a thorough review of a topic of interest related to Quaternary paleoclimatology.</p>
     </div>
   </div>
 
@@ -90,7 +90,7 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Earth Surface Processes &amp; Landforms</h3>
       <div class="course-meta">Spring 2026 · Instructor of Record · Dartmouth College</div>
-      <p>Undergraduate course where students explored geomorphic processes through creative group in-class activities like cartoon strips, applied LiDAR and geomorphic datasets in ArcGIS Pro, and field labs measuring weathering and sediment transport using GNSS surveying. The course spanned weathering, hydrology, hillslope and fluvial processes, glacial systems, tectonic geomorphology, planetary landscapes, and landscape evolution modeling. </p>
+      <p>Undergraduate course where students explored geomorphic processes including weathering, hydrology, hillslope and fluvial processes, glacial systems, tectonic geomorphology, planetary landscapes, and landscape evolution modeling. Laboratory sessions were a combination of working with applied LiDAR and geomorphic datasets in ArcGIS Pro and field labs measuring weathering and sediment transport using GNSS surveying and field methods. Labs for the course were structured as an introduction to GIS and ArcGIS Pro for major and non-major students. The course culminated in a final laboratory exercise where students generated a geomorphic map of fluvial vs anthropogenic landforms in the Whitewater River watershed, a region heavily perturbed by Euro-American agriculture in southeastern Minnesota and a key focus of my PhD research.</p>
     </div>
   </div>
 
@@ -99,7 +99,7 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Paleoclimate &amp; Glacial Processes Field Course</h3>
       <div class="course-meta">Fall 2025 · Co-Instructor · Dartmouth College</div>
-      <p>Three-week field course where students applied Holocene paleoclimate proxies (including lacustrine stratigraphy and glacial ELAs) and built a Quaternary sediment map of a formerly glaciated valley in the Eastern Sierra Nevada Mountains, CA, to reconstruct regional climate history. Co-taught with Prof. Meredith Kelly.</p>
+      <p>Three-week field course where students applied Holocene paleoclimate proxies (including lacustrine stratigraphy and glacial ELAs) and built a Quaternary sediment map of a formerly glaciated valley in the Eastern Sierra Nevada Mountains, CA, to reconstruct regional climate history. The course also incorporated  group presentations synthesizing primary literature for key field sites in the region, alongside instruction in field science best practices, stratigraphic descriptions, and the practical skills needed to work independently in the field. Co-taught with Prof. Meredith Kelly.</p>
     </div>
   </div>
 </div>
