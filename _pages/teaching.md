@@ -90,7 +90,7 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Earth Surface Processes &amp; Landforms</h3>
       <div class="course-meta">Spring 2026 · Instructor of Record · Dartmouth College</div>
-      <p>Undergraduate course where students explored geomorphic processes including weathering, hydrology, hillslope and fluvial processes, glacial systems, tectonic geomorphology, planetary landscapes, and landscape evolution modeling. Laboratory sessions were a combination of working with applied LiDAR and geomorphic datasets in ArcGIS Pro and field labs measuring weathering and sediment transport using GNSS surveying and field methods. Labs for the course were structured as an introduction to GIS and ArcGIS Pro for major and non-major students. The course culminated in a final laboratory exercise where students generated a geomorphic map of fluvial vs anthropogenic landforms in the Whitewater River watershed, a region heavily perturbed by Euro-American agriculture in southeastern Minnesota and a key focus of my PhD research.</p>
+      <p>Undergraduate course spanning hillslope and fluvial processes, hydrology, glacial systems, tectonic and volcanic geomorphology, planetary landscapes, and landscape evolution modeling. Laboratory sessions primarily served as an introduction to ArcGIS Pro through applied geomorphic problems, supplemented by two field labs where students learned GNSS surveying and completed assignments analyzing data collected in the field. The course culminated in a final lab exercise mapping fluvial vs. anthropogenic landforms in the Whitewater River watershed, a region heavily shaped by Euro-American agriculture and central to my PhD research.</p>
     </div>
   </div>
 
