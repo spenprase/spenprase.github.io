@@ -117,7 +117,7 @@ html, body {
 
  <div class="research-card">
     <div class="research-row reverse">
-      <div class="img-col"><img src="/assets/images/Dartmouth/plow_buriedsoil.JPG" alt="Plow vs Ice Age"></div>
+      <div class="img-col"><img src="/assets/images/IMG_5543_2.JPG" alt="Plow vs Ice Age"></div>
       <div class="text-col">
         <h3>Plow vs. Ice Age</h3>
         <p> Landscapes of the midwest are still recovering from long-term, post-glacial climate. Yet, Euro-American settlement in the region following the 1850s CE has majorly altered geomorphic processes. This work, published in <em>Geology</em>, examines how changes in climate, glaciation, and land use impacted fluvial erosion rates throughout the late Quaternary and into the post-settlement period. The project found that erosion rates triggered by Euro-American agriculture are 8 to 10 times higher than the normal range of erosion rate for the region over the last 20,000 years. This has crucial implications for contextualizing the role of humans in geomorphic processes.</p>
