@@ -95,8 +95,8 @@ html, body {
   margin: 0 auto 3rem auto;
 }
 .cv-header img {
-  width: 260px;
-  height: 260px;
+  width: 320px;
+  height: 320px;
   object-fit: cover;
   border-radius: 8px;
   flex: 0 0 auto;
