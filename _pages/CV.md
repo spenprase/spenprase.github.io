@@ -90,7 +90,7 @@ html, body {
   display: flex;
   align-items: center;
   gap: 2rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   max-width: 900px;
   margin: 0 auto 3rem auto;
 }
@@ -100,6 +100,10 @@ html, body {
   object-fit: cover;
   border-radius: 8px;
   flex: 0 0 auto;
+}
+.cv-header .cv-header-text {
+  min-width: 0;
+  flex: 1 1 auto;
 }
 .cv-header h1 {
   margin: 0 0 0.3rem 0;
@@ -111,7 +115,7 @@ html, body {
 
 <div class="cv-header">
   <img src="/assets/images/IMG_1834.JPG" alt="Shanti Penprase">
-  <div>
+  <div class="cv-header-text">
     <h1>Shanti B. Penprase</h1>
     <p><a href="mailto:shanti.b.penprase@dartmouth.edu">shanti.b.penprase@dartmouth.edu</a></p>
   </div>
