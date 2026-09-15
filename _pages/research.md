@@ -33,6 +33,7 @@ html, body {
   margin-bottom: 1.25rem;
 }
 .research-card {
+  background-color: #ffffff;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   padding: 1.25rem;
@@ -42,12 +43,6 @@ html, body {
 .research-card:last-child {
   margin-bottom: 0;
 }
-.current-research .research-card:nth-child(2) { background-color: #fbf9f6; }
-.current-research .research-card:nth-child(3) { background-color: #e8eef2; }
-.current-research .research-card:nth-child(4) { background-color: #f0ece0; }
-.phd-research .research-card:nth-child(2) { background-color: #fbf9f6; }
-.phd-research .research-card:nth-child(3) { background-color: #ece7f0; }
-.phd-research .research-card:nth-child(4) { background-color: #f2ecd8; }
 .research-row {
   display: flex;
   flex-direction: row;
@@ -95,11 +90,14 @@ html, body {
     <div class="research-row">
       <div class="img-col img-stack">
         <img src="/assets/images/Dartmouth/coolfans_headerimage.JPG" alt="Cool Fans">
-        <img src="/assets/images/Dartmouth/ESPInGIF_Initial_fast.gif" alt="Alluvial fan process animation">
+        <div style="overflow: hidden; border-radius: 8px;">
+          <img src="/assets/images/Dartmouth/ESPInGIF_Initial_fast.gif" alt="Alluvial fan process animation" style="transform: scale(1.5); transform-origin: center; border-radius: 0;">
+        </div>
       </div>
       <div class="text-col">
         <h3>Alluvial fans as archives of Arctic climatic change</h3>
         <p>Alluvial fans serve as valuable archives of past climate and erosion rate. In the Arctic, this record is shaped by frost-driven processes. Yet, the primary drivers shaping Arctic fan sedimentation processes remain largely understudied, despite the pressing impacts of modern climate warming. This project, which focuses on the Aklavik Range of the Richardson Mountains in the Northwest Territories, Canada, uses remote sensing to explore how Artic climate shapes fan sediment transport and debris flow recurrence from the Holocene to today.</p>
+        <p style="font-size: 0.8rem; color: #6f6f6f; border-top: 1px solid rgba(0,0,0,0.08); padding-top: 0.5rem; margin-top: 0.75rem;"><em>* The gif at left was created as part of a teaching module on alluvial fan modeling created by Shanti Penprase, Erica Scarpitti, Zhilin Shi, and Muna at the 2026 Earth Surface Processes Institute, a short course on numerical modeling in surface processes.</em></p>
       </div>
     </div>
   </div>
@@ -137,7 +135,7 @@ html, body {
       <div class="text-col">
         <h3>Plow vs. Ice Age</h3>
         <p> Landscapes of the midwest are still recovering from long-term, post-glacial climate. Yet, Euro-American settlement in the region following the 1850s CE has majorly altered geomorphic processes. This work, published in <em>Geology</em>, examines how changes in climate, glaciation, and land use impacted fluvial erosion rates throughout the late Quaternary and into the post-settlement period. The project found that erosion rates triggered by Euro-American agriculture are 8 to 10 times higher than the normal range of erosion rate for the region over the last 20,000 years. This has crucial implications for contextualizing the role of humans in geomorphic processes.</p>
-        <p style="margin-top: 1rem;"><a href="https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets" target="_blank" style="display: inline-block; background-color: #607744; color: #ffffff; padding: 0.5em 1.2em; border-radius: 4px; font-weight: 600; text-decoration: none; font-size: 0.9rem;">Featured on Science.org →</a></p>
+        <p style="margin-top: 1rem;"><a href="https://www.science.org/content/article/modern-farming-has-carved-away-earth-faster-ancient-ice-sheets" target="_blank" style="display: inline-block; background-color: #607744; color: #ffffff; padding: 0.5em 1.2em; border-radius: 4px; font-weight: 600; text-decoration: none; font-size: 0.9rem;">As Featured on Science.org</a></p>
       </div>
     </div>
   </div>
