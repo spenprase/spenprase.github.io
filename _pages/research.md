@@ -76,7 +76,7 @@ html, body {
   margin-bottom: 0;
 }
 .img-caption {
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   color: #6f6f6f;
   text-align: left;
   margin: 0.4rem 0 0 0;
