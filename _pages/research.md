@@ -75,6 +75,13 @@ html, body {
 .research-row .text-col p {
   margin-bottom: 0;
 }
+.img-caption {
+  font-size: 0.75rem;
+  color: #6f6f6f;
+  text-align: center;
+  margin: 0.4rem 0 0 0;
+  font-style: italic;
+}
 @media (max-width: 600px) {
   .research-row,
   .research-row.reverse {
@@ -89,15 +96,20 @@ html, body {
   <div class="research-card">
     <div class="research-row">
       <div class="img-col img-stack">
-        <img src="/assets/images/Dartmouth/coolfans_headerimage.JPG" alt="Cool Fans">
-        <div style="overflow: hidden; border-radius: 8px;">
-          <img src="/assets/images/Dartmouth/ESPInGIF_Initial_fast.gif" alt="Alluvial fan process animation" style="transform: scale(1.5); transform-origin: center; border-radius: 0;">
+        <div>
+          <img src="/assets/images/Dartmouth/coolfans_headerimage.JPG" alt="Cool Fans">
+          <p class="img-caption">Aklavik Range alluvial fans, NWT, Canada, from Summer 2025</p>
+        </div>
+        <div>
+          <div style="overflow: hidden; border-radius: 8px;">
+            <img src="/assets/images/Dartmouth/ESPInGIF_Initial_fast.gif" alt="Alluvial fan process animation" style="transform: scale(1.5); transform-origin: center; border-radius: 0;">
+          </div>
+          <p class="img-caption">This gif was created as part of a teaching module on alluvial fan modeling created by Shanti Penprase, Erica Scarpitti, Zhilin Shi, and Muna at the 2026 Earth Surface Processes Institute, a short course on numerical modeling in surface processes</p>
         </div>
       </div>
       <div class="text-col">
         <h3>Alluvial fans as archives of Arctic climatic change</h3>
         <p>Alluvial fans serve as valuable archives of past climate and erosion rate. In the Arctic, this record is shaped by frost-driven processes. Yet, the primary drivers shaping Arctic fan sedimentation processes remain largely understudied, despite the pressing impacts of modern climate warming. This project, which focuses on the Aklavik Range of the Richardson Mountains in the Northwest Territories, Canada, uses remote sensing to explore how Artic climate shapes fan sediment transport and debris flow recurrence from the Holocene to today.</p>
-        <p style="font-size: 0.8rem; color: #6f6f6f; border-top: 1px solid rgba(0,0,0,0.08); padding-top: 0.5rem; margin-top: 0.75rem;"><em>* The gif at left was created as part of a teaching module on alluvial fan modeling created by Shanti Penprase, Erica Scarpitti, Zhilin Shi, and Muna at the 2026 Earth Surface Processes Institute, a short course on numerical modeling in surface processes.</em></p>
       </div>
     </div>
   </div>
@@ -107,6 +119,7 @@ html, body {
       <div class="img-col img-stack">
         <img src="/assets/images/Dartmouth/kettlebox_prep.JPG" alt="Kettle Lakes">
         <img src="/assets/images/Dartmouth/kettlebox_prep2.JPG" alt="Kettle lake experiment setup">
+        <p class="img-caption">Undergraduate research student Lang Burgess (Dartmouth '27) running experiments in our "Sandbox of Science"</p>
       </div>
       <div class="text-col">
         <h3>From ice blocks to sediment records: insights into deglacial kettles</h3>
@@ -117,7 +130,10 @@ html, body {
 
   <div class="research-card">
     <div class="research-row">
-      <div class="img-col"><img src="/assets/images/Dartmouth/lake_crew.JPG" alt="Arctic Sedimentation"></div>
+            <div class="img-col">
+        <img src="/assets/images/Dartmouth/lake_crew.JPG" alt="Arctic Sedimentation">
+        <p class="img-caption">Shanti Penprase and Marisa Palucis (Dartmouth) getting ready to collect preliminary data in the Aklavik Range</p>
+      </div>
       <div class="text-col">
         <h3>Arctic Sedimentation</h3>
         <p>This project is interested in understanding Holocene post-glacial climate and sedimentation rate along the Aklavik Range in the Northwest Territories of Canada. This work has key implications for understanding how Arctic landscapes recover during periods of major climate change. I am currently working to develop this project into a proposal with several collaborators at Dartmouth College and we collected preliminary data for this project in Summer 2025.</p>
@@ -131,7 +147,10 @@ html, body {
 
  <div class="research-card">
     <div class="research-row reverse">
-      <div class="img-col"><img src="/assets/images/Dartmouth/plow_buriedsoil.JPG" alt="Plow vs Ice Age"></div>
+            <div class="img-col">
+        <img src="/assets/images/Dartmouth/plow_buriedsoil.JPG" alt="Plow vs Ice Age">
+        <p class="img-caption">Pointing to the top of the post-settlement alluvium that buries the pre-settlement soil (black) in the Whitewater River, Minnesota</p>
+      </div>
       <div class="text-col">
         <h3>Plow vs. Ice Age</h3>
         <p> Landscapes of the midwest are still recovering from long-term, post-glacial climate. Yet, Euro-American settlement in the region following the 1850s CE has majorly altered geomorphic processes. This work, published in <em>Geology</em>, examines how changes in climate, glaciation, and land use impacted fluvial erosion rates throughout the late Quaternary and into the post-settlement period. The project found that erosion rates triggered by Euro-American agriculture are 8 to 10 times higher than the normal range of erosion rate for the region over the last 20,000 years. This has crucial implications for contextualizing the role of humans in geomorphic processes.</p>
@@ -142,7 +161,10 @@ html, body {
 
   <div class="research-card">
     <div class="research-row">
-      <div class="img-col"><img src="/assets/images/Dartmouth/slackwater_abbylab.JPG" alt="Laurentide Meltwater Routing and Slackwater Deposition"></div>
+            <div class="img-col">
+        <img src="/assets/images/Dartmouth/slackwater_abbylab.JPG" alt="Laurentide Meltwater Routing and Slackwater Deposition">
+        <p class="img-caption">Undergraduate research student Abby Wilwerding (Minnesota '24) working in the lab to describe sediment cores</p>
+      </div>
       <div class="text-col">
         <h3>Tracing late-glacial meltwater routing to the ocean using slackwater sediment records</h3>
         <p>Slackwater sediments are deposited with river mouths are inundated by floodwaters. In this project, we analyzed a slackwater sediment core taken from a tributary river system in southeastern Minnesota and related sediment geochemistry to sediment provenance and shifts in southern Laurentide Ice Sheet meltwater routing in the Holocene. University of Minnesota undergraduate Abigail Wilwerding (see Teaching & Mentoring page) was instrumental in this work and the manuscript is currently in review.</p>
@@ -152,7 +174,10 @@ html, body {
 
   <div class="research-card">
     <div class="research-row reverse">
-      <div class="img-col"><img src="/assets/images/IMG_3837.png" alt="Collaborator-Driven Projects"></div>
+            <div class="img-col">
+        <img src="/assets/images/IMG_3837.png" alt="Collaborator-Driven Projects">
+        <p class="img-caption">Mati Romero (Wisconsin), Andy Wickert (Minnesota), Max Van Wyk De Vries (Cambridge), Shanti Penprase (Dartmouth), and Kelly MacGregor (Macalester) on Perito Moreno Glacier, Patagonia, Argentina</p>
+      </div>
       <div class="text-col">
         <h3>Collaborator-Driven Projects: Climate and Glacial Change in Southern Patagonia</h3>
         <p>I have been fortunate to collaborate on several co-authored research publications from work in the Southern Patagonian Ice Field. These projects include constraining late-Quaternary glacial change in relation paleoclimate for the southern hemisphere via geochronology and geomorphic mapping, building and installing open-source ablation stakes on the Perito Moreno glacier, and using modern river discharge coming off the Ice Field to demonstrate increasing glacial melt with modern warming.</p>
