@@ -98,7 +98,7 @@ html, body {
       <div class="img-col img-stack">
         <img src="/assets/images/Dartmouth/coolfans_headerimage.JPG" alt="Cool Fans">
         <img src="/assets/images/IMG_0573.JPG" alt="Alluvial fan field site">
-        <p class="img-caption">Alluvial fans in the Aklavik Range, NWT, Canada, from Summer 2025</p>
+        <p class="img-caption">Although this project works primarily with LiDAR data and historical imagery, I was fortunate to visit the Aklavik Range in Summer 2025.</p>
       </div>
       <div class="text-col">
         <h3>Alluvial fans as archives of Arctic climatic change</h3>
