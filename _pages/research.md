@@ -76,7 +76,7 @@ html, body {
   margin-bottom: 0;
 }
 .img-caption {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   color: #6f6f6f;
   text-align: left;
   margin: 0.4rem 0 0 0;
@@ -98,13 +98,13 @@ html, body {
       <div class="img-col img-stack">
         <div>
           <img src="/assets/images/Dartmouth/coolfans_headerimage.JPG" alt="Cool Fans">
-          <p class="img-caption">Aklavik Range alluvial fans, NWT, Canada, from Summer 2025</p>
+          <p class="img-caption">Alluvial fans in the Aklavik Range, NWT, Canada, from Summer 2025</p>
         </div>
         <div>
           <div style="overflow: hidden; border-radius: 8px;">
             <img src="/assets/images/Dartmouth/ESPInGIF_Initial_fast.gif" alt="Alluvial fan process animation" style="transform: scale(1.15); transform-origin: center; border-radius: 0;">
           </div>
-          <p class="img-caption">This gif was created as part of a teaching module on alluvial fan modeling created by Shanti Penprase, Erica Scarpitti, Zhilin Shi, and Muna at the 2026 Earth Surface Processes Institute, a short course on numerical modeling in surface processes</p>
+          <p class="img-caption">GIF created as part of a teaching module on fan modeling created by Shanti Penprase, Erica Scarpitti, Zhilin Shi, and Muna at the 2026 Earth Surface Processes Institute</p>
         </div>
       </div>
       <div class="text-col">
@@ -119,7 +119,7 @@ html, body {
       <div class="img-col img-stack">
         <img src="/assets/images/Dartmouth/kettlebox_prep.JPG" alt="Kettle Lakes">
         <img src="/assets/images/Dartmouth/kettlebox_prep2.JPG" alt="Kettle lake experiment setup">
-        <p class="img-caption">Undergraduate research student Lang Burgess (Dartmouth '27) running experiments in our "Sandbox of Science"</p>
+        <p class="img-caption">Lang Burgess (Dartmouth '27) running experiments in our "Sandbox of Science"</p>
       </div>
       <div class="text-col">
         <h3>From ice blocks to sediment records: insights into deglacial kettles</h3>
@@ -163,11 +163,11 @@ html, body {
     <div class="research-row">
             <div class="img-col">
         <img src="/assets/images/Dartmouth/slackwater_abbylab.JPG" alt="Laurentide Meltwater Routing and Slackwater Deposition">
-        <p class="img-caption">Undergraduate research student Abby Wilwerding (Minnesota '24) working in the lab to describe sediment cores</p>
+        <p class="img-caption">Abby Wilwerding (Minnesota '24) working in the lab to describe sediment cores</p>
       </div>
       <div class="text-col">
         <h3>Tracing late-glacial meltwater routing to the ocean using slackwater sediment records</h3>
-        <p>Slackwater sediments are deposited with river mouths are inundated by floodwaters. In this project, we analyzed a slackwater sediment core taken from a tributary river system in southeastern Minnesota and related sediment geochemistry to sediment provenance and shifts in southern Laurentide Ice Sheet meltwater routing in the Holocene. University of Minnesota undergraduate Abigail Wilwerding (see Teaching & Mentoring page) was instrumental in this work and the manuscript is currently in review.</p>
+        <p>Slackwater sediments are deposited with river mouths are inundated by floodwaters. In this project, we analyzed a slackwater sediment core taken from a tributary river system in southeastern Minnesota and related sediment geochemistry to sediment provenance and shifts in southern Laurentide Ice Sheet meltwater routing in the Holocene. University of Minnesota undergraduate Abby Wilwerding (see Teaching & Mentoring page) was instrumental in this work and the manuscript is currently in review.</p>
       </div>
     </div>
   </div>
