@@ -76,7 +76,7 @@ html, body {
   margin-bottom: 0;
 }
 .img-caption {
-  font-size: 0.5rem;
+  font-size: 0.5rem !important;
   color: #6f6f6f;
   text-align: left;
   margin: 0.4rem 0 0 0;
@@ -96,16 +96,9 @@ html, body {
   <div class="research-card">
     <div class="research-row">
       <div class="img-col img-stack">
-        <div>
-          <img src="/assets/images/Dartmouth/coolfans_headerimage.JPG" alt="Cool Fans">
-          <p class="img-caption">Alluvial fans in the Aklavik Range, NWT, Canada, from Summer 2025</p>
-        </div>
-        <div>
-          <div style="overflow: hidden; border-radius: 8px;">
-            <img src="/assets/images/Dartmouth/ESPInGIF_Initial_fast.gif" alt="Alluvial fan process animation" style="transform: scale(1.15); transform-origin: center; border-radius: 0;">
-          </div>
-          <p class="img-caption">GIF created as part of a teaching module on fan modeling created by Shanti Penprase, Erica Scarpitti, Zhilin Shi, and Muna at the 2026 Earth Surface Processes Institute</p>
-        </div>
+        <img src="/assets/images/Dartmouth/coolfans_headerimage.JPG" alt="Cool Fans">
+        <img src="/assets/images/IMG_0573.JPG" alt="Alluvial fan field site">
+        <p class="img-caption">Alluvial fans in the Aklavik Range, NWT, Canada, from Summer 2025</p>
       </div>
       <div class="text-col">
         <h3>Alluvial fans as archives of Arctic climatic change</h3>
