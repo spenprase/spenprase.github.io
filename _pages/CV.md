@@ -257,6 +257,13 @@ html, body {
   </div>
 
   <div class="cv-row">
+    <div class="cv-date">Spring 2024</div>
+    <div class="cv-details">
+      <p class="cv-title">Departmental Seminar, Dartmouth College Earth & Planetary Sciences</p>
+    </div>
+  </div>
+
+  <div class="cv-row">
     <div class="cv-date">Fall 2022</div>
     <div class="cv-details">
       <p class="cv-title">AGU Fall Meeting &mdash; Earth &amp; Planetary Surface Processes General Contributions (Invited Presenter)</p>
@@ -273,7 +280,7 @@ html, body {
   <div class="cv-row">
     <div class="cv-date">Spring 2022</div>
     <div class="cv-details">
-      <p class="cv-title">Carleton College Geology Department Seminar</p>
+      <p class="cv-title">Departmental Seminar, Carleton College Geology </p>
     </div>
   </div>
 
@@ -287,7 +294,7 @@ html, body {
   <div class="cv-row">
     <div class="cv-date">Spring 2021</div>
     <div class="cv-details">
-      <p class="cv-title">American Institute of Professional Geologists, Minnesota Section</p>
+      <p class="cv-title">American Institute of Professional Geologists, Minnesota</p>
     </div>
   </div>
   </div>
