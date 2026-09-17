@@ -64,7 +64,7 @@ html, body {
     <div style="flex: 1 1 55%; min-width: 250px;">
       <h1 style="margin-bottom: 0.25rem;">Dr. Shanti B. Penprase</h1>
       <p style="font-size: 1.1rem; font-weight: 600; color: #6f6f6f; margin-top: 0;">Guarini Dean's Postdoctoral Fellow, Department of Earth &amp; Planetary Sciences, Dartmouth College</p>
-      <p>I study how climate, glaciation, and human land use shape landscapes over timescales ranging from millennia to the present day. My work spans Arctic fluvial and lacustrine systems, glacial meltwater routing, and the long-term impacts of agriculture on erosion.</p>
+      <p>I study how changes in climate, glaciation, and land use impact the morphology of landscapes. My work connects landscapes of the icy past during the Last Glacial Maximum (approx. 20,000 years ago) to more modern changes caused by anthropogenic activity. I address my research questions using a number of approaches, including remote sensing, laboratory experimentation, optically stimulated luminescence and cosmogenic nuclide dating, and reconstructing environmental histories preserved in sedimentary archives. I focus on a range of systems including Arctic alluvial fan morphology, glacial kettle formation, post-glacial landscape evolution, and how climate and humans dictate the processes of Earth's surface.</p>
     </div>
   </div>
 </div>
