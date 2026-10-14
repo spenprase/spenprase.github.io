@@ -26,23 +26,23 @@ permalink: /teaching/
 <!-- Other content -->
 
 <style>
+/* ---------- Courses: one card per row, image left / text right ---------- */
 .courses-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr;
   gap: 1.75rem;
   max-width: 1100px;
   margin: 1rem auto 3rem auto;
-}
-@media (max-width: 768px) {
-  .courses-grid {
-    grid-template-columns: 1fr;
-  }
 }
 .course-card {
   background-color: #ffffff;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   overflow: hidden;
+}
+.courses-grid .course-card {
+  display: grid;
+  grid-template-columns: 300px 1fr;
 }
 .courses-grid .course-card:nth-child(1) { background-color: #f4f1ec; }
 .courses-grid .course-card:nth-child(2) { background-color: #dfe6d3; }
@@ -52,6 +52,10 @@ permalink: /teaching/
   height: 180px;
   object-fit: cover;
   display: block;
+}
+.courses-grid .course-card img {
+  height: 100%;
+  min-height: 220px;
 }
 .course-card .course-body {
   padding: 1.25rem;
@@ -70,6 +74,15 @@ permalink: /teaching/
 .course-card p {
   font-size: 0.9rem;
   margin-bottom: 0;
+}
+@media (max-width: 768px) {
+  .courses-grid .course-card {
+    grid-template-columns: 1fr;
+  }
+  .courses-grid .course-card img {
+    height: 180px;
+    min-height: 0;
+  }
 }
 </style>
 
@@ -90,7 +103,7 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Earth Surface Processes &amp; Landforms</h3>
       <div class="course-meta">Spring 2026 · Instructor of Record · Dartmouth College</div>
-      <p>Undergraduate course and introduction to ArcGIS Pro via applied geomorphic datasets in the laboratory section. The course also included two field labs where students collected and analyzed field dat. The course culminated in a final lab exercise mapping fluvial vs. anthropogenic landforms in the Whitewater River watershed, a region heavily shaped by Euro-American agriculture and central to my PhD research.</p>
+      <p>Undergraduate course and introduction to ArcGIS Pro via applied geomorphic datasets in the laboratory section. The course also included two field labs where students collected and analyzed field data. The course culminated in a final lab exercise mapping fluvial vs. anthropogenic landforms in the Whitewater River watershed, a region heavily shaped by Euro-American agriculture and central to my PhD research.</p>
     </div>
   </div>
 
@@ -99,46 +112,31 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Paleoclimate &amp; Glacial Processes Field Course</h3>
       <div class="course-meta">Fall 2025 · Co-Instructor · Dartmouth College</div>
-      <p>Three-week field course where students reconstructed regional climate history via Holocene paleoclimate proxies and Quaternary sediment mapping in the Eastern Sierra Nevada Mountains, CA. The course also incorporated  group presentations synthesizing primary literature for key field sites in the region, alongside instruction in field science best practices, stratigraphic descriptions, and the practical skills needed to work independently in the field. Co-taught with Prof. Meredith Kelly.</p>
+      <p>Three-week field course where students reconstructed regional climate history via Holocene paleoclimate proxies and Quaternary sediment mapping in the Eastern Sierra Nevada Mountains, CA. The course also incorporated group presentations synthesizing primary literature for key field sites in the region, alongside instruction in field science best practices, stratigraphic descriptions, and the practical skills needed to work independently in the field. Co-taught with Prof. Meredith Kelly.</p>
     </div>
   </div>
 </div>
 
 <style>
+/* ---------- Guest Teaching & TA: header + details (no floating box) ---------- */
 .guestta-section {
   max-width: 950px;
   margin: 3rem auto 2rem auto;
-  background-color: #e8dfd3;
-  padding: 1.25rem 2rem 2.5rem 2rem;
-  border-radius: 12px;
+  padding: 0 2rem;
 }
-.guestta-section h2 {
-  color: #607744;
+.guestta-header {
   text-align: center;
+  margin-bottom: 2rem;
+}
+.guestta-header h2 {
+  color: #607744;
+  margin: 0 0 0.75rem 0;
+  padding-bottom: 0.6rem;
+  border-bottom: 3px solid #607744;
 }
 .guestta-intro {
   text-align: center;
-  margin: 0 auto 2rem auto;
-}
-.guestta-stats {
-  display: flex;
-  justify-content: center;
-  gap: 3rem;
-  flex-wrap: wrap;
-  margin-bottom: 2.5rem;
-}
-.guestta-stats .stat {
-  text-align: center;
-}
-.guestta-stats .stat .stat-number {
-  font-size: 2.2rem;
-  font-weight: 700;
-  color: #607744;
-  line-height: 1;
-}
-.guestta-stats .stat .stat-label {
-  font-size: 0.85rem;
-  color: #6f6f6f;
+  margin: 0 auto;
 }
 .guestta-section h3 {
   text-align: center;
@@ -184,8 +182,9 @@ permalink: /teaching/
 </style>
 
 <div class="guestta-section">
-  <h2>Guest Teaching &amp; Teaching Assistantships</h2>
-  <p class="guestta-intro">I have held 9 teaching assistantship appointments and taught 7 guest lectures across 4 institutions.</p>
+  <div class="guestta-header">
+    <h2>Guest Teaching &amp; Teaching Assistantships</h2>
+    <p class="guestta-intro">I have held 9 teaching assistantship appointments and taught 7 guest lectures across 4 institutions.</p>
   </div>
 
   <div class="guestta-block">
@@ -273,6 +272,7 @@ permalink: /teaching/
 </div>
 
 <style>
+/* ---------- Undergraduate Mentoring + Featured Students (all on green) ---------- */
 .mentoring-section {
   max-width: 950px;
   margin: 3rem auto 2rem auto;
@@ -335,8 +335,7 @@ permalink: /teaching/
 
 <div class="mentoring-section">
   <h2>Undergraduate Mentoring</h2>
-  <p class="mentoring-intro">I have supervised 11 undergraduate research students across 4 institutions. I've been fortunate to work with students from a wide variety of identities, backgrounds, and interests. My time with students has ranged from a single semester or field campaign, through to multi-year collaborations and co-authorship on peer-reviewed manuscripts. Many of my students have presented their work in professional contexts and have continued into positions in environmental consulting, local government, and higher education. I enjoy working with each student to help them identify their scientific interests and build projects that align with their personal and professional goals. Through our time together, I work to empower students to feel ownership over their research and engage as active inquirers into Earth's processes. </p>
-  </div>
+  <p class="mentoring-intro">I have supervised 11 undergraduate research students across 4 institutions. I've been fortunate to work with students from a wide variety of identities, backgrounds, and interests. My time with students has ranged from a single semester or field campaign, through to multi-year collaborations and co-authorship on peer-reviewed manuscripts. Through our time together, I work to empower students to feel ownership over their research and engage as active inquirers into Earth's processes.</p>
 
   <h3 style="text-align: center; margin-bottom: 1.25rem;">Featured Students</h3>
   <div class="mentoring-cards">
@@ -345,7 +344,7 @@ permalink: /teaching/
       <div class="course-body">
         <h3>Lang Burgess</h3>
         <div class="course-meta">Dartmouth College</div>
-        <p> Lang Burgess (Dartmouth College '27) has been a driving force behind the kettle lake research project since Spring 2025, developing the standard operating procedures for structure-from-motion and DEM generation in Metashape and conducting experiments using ice spheres and our "Sandbox of Science". This project was Lang's first experience with scientific research and through our time together she has learned structure-from-motion photogrammetary, GIS, and glacial geology. Lang applied skills she learned from our work together during a term abroad at the University of Canterbury, New Zealand, where she used QGIS for landslide analysis. Lang has since received a college-level undergraduate research grant to support her work and is completing a senior thesis on this project during the 2026-2027 academic year. She will be attending and presenting her research at the 2026 American Geophysical Union meeting in San Francisco.</p>
+        <p>Lang Burgess (Dartmouth College '27) has been a driving force behind the kettle lake research project since Spring 2025, developing the standard operating procedures for structure-from-motion and DEM generation in Metashape and conducting experiments using ice spheres and our "Sandbox of Science". This project was Lang's first experience with scientific research and through our time together she has learned structure-from-motion photogrammetry, GIS, and glacial geology. Lang applied skills she learned from our work together during a term abroad at the University of Canterbury, New Zealand, where she used QGIS for landslide analysis. Lang has since received a college-level undergraduate research grant to support her work and is completing a senior thesis on this project during the 2026-2027 academic year. She will be attending and presenting her research at the 2026 American Geophysical Union meeting in San Francisco.</p>
       </div>
     </div>
 
@@ -354,7 +353,7 @@ permalink: /teaching/
       <div class="course-body">
         <h3>Abigail Wilwerding</h3>
         <div class="course-meta">University of Minnesota</div>
-        <p> Abby Wilwerding (University of Minnesota '24) began working with me in Spring 2023 to analyze a slackwater sediment core from southeastern Minnesota. She completed detailed sediment descriptions, built a stratigraphic column, and managed X-ray fluorescence analysis of the core at the Unviversity of Minnesota Duluth Large Lakes Observatory. Abby was instrumental in initial data analysis and statistical interpretation of our cores in relation to sediment provenance. She received an Undergraduate Research Opportunity grant from the University of Minnesota for her work and presented her research at the 2024 North-Central/South-Central Section Geological Society of America Regional Conference. Following graduation, Abby worked in environmental consulting for several years and began a masters program at the University of Wisconsin Madison in Fall 2026. She is the second author on the manuscript for this work, which is currently in review.</p>
+        <p>Abby Wilwerding (University of Minnesota '24) began working with me in Spring 2023 to analyze a slackwater sediment core from southeastern Minnesota. She completed detailed sediment descriptions, built a stratigraphic column, and managed X-ray fluorescence analysis of the core at the University of Minnesota Duluth Large Lakes Observatory. Abby was instrumental in initial data analysis and statistical interpretation of our cores in relation to sediment provenance. She received an Undergraduate Research Opportunity grant from the University of Minnesota for her work and presented her research at the 2024 North-Central/South-Central Section Geological Society of America Regional Conference. Following graduation, Abby worked in environmental consulting for several years and began a masters program at the University of Wisconsin Madison in Fall 2026. She is the second author on the manuscript for this work, which is currently in review.</p>
       </div>
     </div>
   </div>
