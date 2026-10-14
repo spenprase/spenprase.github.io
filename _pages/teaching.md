@@ -81,7 +81,7 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Quaternary Paleoclimatology</h3>
       <div class="course-meta">Winter 2027 · Instructor of Record · Dartmouth College</div>
-      <p>Upper-level undergraduate and graduate course where students explore how climate has shaped ocean and continental processes across geologic time, and the growing role humans play in that system. Topics span the oceanic, atmospheric, geomorphic, and chemical expressions of climate change in the geologic record and applications to climate models. The course includes several problem sets applying climate datasets, primary literature review, student-led topical presentations and discussions, and culminates in a topical paper that provides a thorough review of a topic of interest related to Quaternary paleoclimatology.</p>
+      <p>Upper-level undergraduate and graduate course on how climate has shaped ocean and continental processes across geologic time, and the growing role humans play in that system. The course includes several problem sets applying climate datasets, primary literature review, student-led presentations and discussions, and culminates in a topical paper that provides a thorough review of a topic of interest related to Quaternary paleoclimatology.</p>
     </div>
   </div>
 
@@ -90,7 +90,7 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Earth Surface Processes &amp; Landforms</h3>
       <div class="course-meta">Spring 2026 · Instructor of Record · Dartmouth College</div>
-      <p>Undergraduate course spanning hillslope and fluvial processes, hydrology, glacial systems, tectonic and volcanic geomorphology, planetary landscapes, and landscape evolution modeling. Laboratory sessions primarily served as an introduction to ArcGIS Pro through applied geomorphic problems, supplemented by two field labs where students learned GNSS surveying and completed assignments analyzing data collected in the field. The course culminated in a final lab exercise mapping fluvial vs. anthropogenic landforms in the Whitewater River watershed, a region heavily shaped by Euro-American agriculture and central to my PhD research.</p>
+      <p>Undergraduate course and introduction to ArcGIS Pro via applied geomorphic datasets in the laboratory section. The course also included two field labs where students collected and analyzed field dat. The course culminated in a final lab exercise mapping fluvial vs. anthropogenic landforms in the Whitewater River watershed, a region heavily shaped by Euro-American agriculture and central to my PhD research.</p>
     </div>
   </div>
 
@@ -99,7 +99,7 @@ permalink: /teaching/
     <div class="course-body">
       <h3>Paleoclimate &amp; Glacial Processes Field Course</h3>
       <div class="course-meta">Fall 2025 · Co-Instructor · Dartmouth College</div>
-      <p>Three-week field course where students applied Holocene paleoclimate proxies (including lacustrine stratigraphy and glacial ELAs) and built a Quaternary sediment map of a formerly glaciated valley in the Eastern Sierra Nevada Mountains, CA, to reconstruct regional climate history. The course also incorporated  group presentations synthesizing primary literature for key field sites in the region, alongside instruction in field science best practices, stratigraphic descriptions, and the practical skills needed to work independently in the field. Co-taught with Prof. Meredith Kelly.</p>
+      <p>Three-week field course where students reconstructed regional climate history via Holocene paleoclimate proxies and Quaternary sediment mapping in the Eastern Sierra Nevada Mountains, CA. The course also incorporated  group presentations synthesizing primary literature for key field sites in the region, alongside instruction in field science best practices, stratigraphic descriptions, and the practical skills needed to work independently in the field. Co-taught with Prof. Meredith Kelly.</p>
     </div>
   </div>
 </div>
@@ -185,21 +185,7 @@ permalink: /teaching/
 
 <div class="guestta-section">
   <h2>Guest Teaching &amp; Teaching Assistantships</h2>
-  <p class="guestta-intro">Beyond my primary course appointments, I've contributed as a guest lecturer and teaching assistant across a range of courses and institutions, sharing my research and supporting student learning along the way.</p>
-
-  <div class="guestta-stats">
-    <div class="stat">
-      <div class="stat-number">7</div>
-      <div class="stat-label">Guest Lectures</div>
-    </div>
-    <div class="stat">
-      <div class="stat-number">9</div>
-      <div class="stat-label">TA Appointments</div>
-    </div>
-    <div class="stat">
-      <div class="stat-number">4</div>
-      <div class="stat-label">Institutions</div>
-    </div>
+  <p class="guestta-intro">I have held 9 teaching assistantship appointments and taught 7 guest lectures across 4 institutions.</p>
   </div>
 
   <div class="guestta-block">
