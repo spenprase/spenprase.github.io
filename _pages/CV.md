@@ -218,10 +218,10 @@ html, body {
   </div>
 
   <div class="cv-row">
-    <div class="cv-date">In Review</div>
+    <div class="cv-date">In Revision</div>
     <div class="cv-details">
       <p class="cv-title">History of late-glacial meltwater routing to the upper Mississippi River basin as recorded in a tributary slackwater sequence</p>
-      <p class="cv-sub">Penprase, S.B., Wilwerding, A., McKenzie, M., Wickert, A., Larson, P., Rittenour, R. &mdash; <em>Boreas</em> (in review)</p>
+      <p class="cv-sub">Penprase, S.B., Wilwerding, A., McKenzie, M., Wickert, A., Larson, P., Rittenour, R. &mdash; <em>Boreas</em> (in revision)</p>
     </div>
   </div>
 
